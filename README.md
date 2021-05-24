@@ -1,6 +1,6 @@
 # CHN Domains
 
-[![ddns](https://img.shields.io/badge/LICENSE-BSD3%20Clause%20Liscense-lightblue?style=flat-square)](https://gitlab.com/fernvenue/telegram-cidr/-/raw/master/LICENSE)
+[![ddns](https://img.shields.io/badge/LICENSE-BSD3%20Clause%20Liscense-lightblue?style=flat-square)](https://raw.githubusercontent.com/fernvenue/chn-domains-list/master/LICENSE)
 
 ## Details
 
