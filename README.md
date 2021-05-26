@@ -6,7 +6,7 @@
 
 **Multi-format secondary distribution of CHN Domains list.<br>**
 
-Use CI/CD to automatically check and update, each update within one hour.<br>
+Use CI/CD to automatically check and update, each update within one day.<br>
 Conversion comes from felixonmars's [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list).
 
 https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf<br>
