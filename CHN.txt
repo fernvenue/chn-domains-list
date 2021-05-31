@@ -799,6 +799,7 @@
 [/10000tc.com/]tls://223.5.5.5
 [/10000yao.com/]tls://223.5.5.5
 [/10001wan.com/]tls://223.5.5.5
+[/1000360.com/]tls://223.5.5.5
 [/10006.info/]tls://223.5.5.5
 [/1000ci.net/]tls://223.5.5.5
 [/1000eb.net/]tls://223.5.5.5
@@ -16404,6 +16405,7 @@
 [/click-v.com/]tls://223.5.5.5
 [/click369.com/]tls://223.5.5.5
 [/clickclaro.xyz/]tls://223.5.5.5
+[/clicksdiy.com/]tls://223.5.5.5
 [/clicksun.net/]tls://223.5.5.5
 [/clickwifi.net/]tls://223.5.5.5
 [/client51.com/]tls://223.5.5.5
@@ -17200,6 +17202,7 @@
 [/cnwa.com/]tls://223.5.5.5
 [/cnwage.com/]tls://223.5.5.5
 [/cnwaking.com/]tls://223.5.5.5
+[/cnwangjie.com/]tls://223.5.5.5
 [/cnwaternews.com/]tls://223.5.5.5
 [/cnwb.net/]tls://223.5.5.5
 [/cnwdjj.com/]tls://223.5.5.5
@@ -18888,6 +18891,7 @@
 [/dangcdn.com/]tls://223.5.5.5
 [/dangdang.com/]tls://223.5.5.5
 [/danghongyun.com/]tls://223.5.5.5
+[/danghuan.com/]tls://223.5.5.5
 [/dangjian.com/]tls://223.5.5.5
 [/dangjianwang.com/]tls://223.5.5.5
 [/dangpu.com/]tls://223.5.5.5
@@ -21842,7 +21846,6 @@
 [/eduwest.com/]tls://223.5.5.5
 [/eduwg.com/]tls://223.5.5.5
 [/eduwo.com/]tls://223.5.5.5
-[/eduwsw.com/]tls://223.5.5.5
 [/eduwx.com/]tls://223.5.5.5
 [/eduxiao.com/]tls://223.5.5.5
 [/eduyf.com/]tls://223.5.5.5
@@ -25251,7 +25254,6 @@
 [/gequ77.com/]tls://223.5.5.5
 [/gequdaquan.net/]tls://223.5.5.5
 [/geren-jianli.com/]tls://223.5.5.5
-[/geren.site/]tls://223.5.5.5
 [/gerenjianli.com/]tls://223.5.5.5
 [/gerhard-china.com/]tls://223.5.5.5
 [/germany-leica.net/]tls://223.5.5.5
@@ -28940,6 +28942,7 @@
 [/hnh.cc/]tls://223.5.5.5
 [/hnhaitian.com/]tls://223.5.5.5
 [/hnhaofang.com/]tls://223.5.5.5
+[/hnhllv.net/]tls://223.5.5.5
 [/hnhnled.com/]tls://223.5.5.5
 [/hnhw.org/]tls://223.5.5.5
 [/hnhxxk.com/]tls://223.5.5.5
@@ -28966,6 +28969,7 @@
 [/hnleisu.com/]tls://223.5.5.5
 [/hnliangku.com/]tls://223.5.5.5
 [/hnlungtongzs.com/]tls://223.5.5.5
+[/hnlzhd.com/]tls://223.5.5.5
 [/hnlzw.net/]tls://223.5.5.5
 [/hnmdtv.com/]tls://223.5.5.5
 [/hnmgjr.com/]tls://223.5.5.5
@@ -32660,7 +32664,6 @@
 [/ivycoffee.com/]tls://223.5.5.5
 [/ivydad.com/]tls://223.5.5.5
 [/ivydom.com/]tls://223.5.5.5
-[/ivynuts.com/]tls://223.5.5.5
 [/ivypub.org/]tls://223.5.5.5
 [/ivyschools.com/]tls://223.5.5.5
 [/ivysoon.com/]tls://223.5.5.5
@@ -33005,6 +33008,7 @@
 [/jcloudgslb.com/]tls://223.5.5.5
 [/jcloudimg.com/]tls://223.5.5.5
 [/jcloudlb.com/]tls://223.5.5.5
+[/jcloudstatic.com/]tls://223.5.5.5
 [/jcmob.net/]tls://223.5.5.5
 [/jcnk120.com/]tls://223.5.5.5
 [/jcodecraeer.com/]tls://223.5.5.5
@@ -43024,6 +43028,7 @@
 [/nfzhouyi.com/]tls://223.5.5.5
 [/nfzmbrand.com/]tls://223.5.5.5
 [/ng-alain.com/]tls://223.5.5.5
+[/nga.wiki/]tls://223.5.5.5
 [/ngabbs.com/]tls://223.5.5.5
 [/ngacn.cc/]tls://223.5.5.5
 [/ngacn.com/]tls://223.5.5.5
@@ -46911,6 +46916,7 @@
 [/qiuyuewenxue.com/]tls://223.5.5.5
 [/qiuyumi.com/]tls://223.5.5.5
 [/qiuzhang.com/]tls://223.5.5.5
+[/qiuzhijiangtang.com/]tls://223.5.5.5
 [/qiuziti.com/]tls://223.5.5.5
 [/qiuziyuan.net/]tls://223.5.5.5
 [/qivsod.com/]tls://223.5.5.5
@@ -49059,6 +49065,7 @@
 [/sbh15.com/]tls://223.5.5.5
 [/sbiquge.com/]tls://223.5.5.5
 [/sbk-h5.com/]tls://223.5.5.5
+[/sbkh5.com/]tls://223.5.5.5
 [/sbkk8.com/]tls://223.5.5.5
 [/sbkk88.com/]tls://223.5.5.5
 [/sblunwen.com/]tls://223.5.5.5
@@ -53749,6 +53756,7 @@
 [/tapdata.net/]tls://223.5.5.5
 [/tapdb.com/]tls://223.5.5.5
 [/tapdb.net/]tls://223.5.5.5
+[/tapechat.net/]tls://223.5.5.5
 [/tapenjoy.com/]tls://223.5.5.5
 [/tapimg.com/]tls://223.5.5.5
 [/tapotiexie.com/]tls://223.5.5.5
@@ -55055,7 +55063,6 @@
 [/topthink.com/]tls://223.5.5.5
 [/topthink.net/]tls://223.5.5.5
 [/toptourservice.com/]tls://223.5.5.5
-[/topu.com/]tls://223.5.5.5
 [/topuc.com/]tls://223.5.5.5
 [/topwalk.com/]tls://223.5.5.5
 [/topwanwan.com/]tls://223.5.5.5
@@ -63392,6 +63399,8 @@
 [/yaohuiji.com/]tls://223.5.5.5
 [/yaohuo.me/]tls://223.5.5.5
 [/yaojiao.tv/]tls://223.5.5.5
+[/yaojibuyu.com/]tls://223.5.5.5
+[/yaojidsfee.com/]tls://223.5.5.5
 [/yaojiedianzi.com/]tls://223.5.5.5
 [/yaojingtang.com/]tls://223.5.5.5
 [/yaokaihui.com/]tls://223.5.5.5
