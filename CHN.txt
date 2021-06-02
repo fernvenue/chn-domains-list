@@ -362,7 +362,6 @@
 [/04168.com/]tls://223.5.5.5
 [/0416u.com/]tls://223.5.5.5
 [/0417gou.com/]tls://223.5.5.5
-[/0418fc.com/]tls://223.5.5.5
 [/0421wcbzk.com/]tls://223.5.5.5
 [/0427.com/]tls://223.5.5.5
 [/0430.com/]tls://223.5.5.5
@@ -9422,6 +9421,7 @@
 [/anglo-chinese.com/]tls://223.5.5.5
 [/angroups.com/]tls://223.5.5.5
 [/angruo.com/]tls://223.5.5.5
+[/angrymiao.com/]tls://223.5.5.5
 [/anguanjia.com/]tls://223.5.5.5
 [/angui.org/]tls://223.5.5.5
 [/angwei.net/]tls://223.5.5.5
@@ -51714,7 +51714,6 @@
 [/sohocute.com/]tls://223.5.5.5
 [/sohonow.com/]tls://223.5.5.5
 [/sohotask.com/]tls://223.5.5.5
-[/sohovark.com/]tls://223.5.5.5
 [/sohu-inc.com/]tls://223.5.5.5
 [/sohu.com/]tls://223.5.5.5
 [/sohu.net/]tls://223.5.5.5
