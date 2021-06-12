@@ -4670,7 +4670,6 @@
 [/51zhangdan.com/]tls://223.5.5.5
 [/51zhantai.com/]tls://223.5.5.5
 [/51zhaobizhi.com/]tls://223.5.5.5
-[/51zhaowei.com/]tls://223.5.5.5
 [/51zheduoduo.com/]tls://223.5.5.5
 [/51zhengxin.com/]tls://223.5.5.5
 [/51zhi.com/]tls://223.5.5.5
@@ -9032,6 +9031,7 @@
 [/alibabacorp.com/]tls://223.5.5.5
 [/alibabadns.com/]tls://223.5.5.5
 [/alibabadoctor.com/]tls://223.5.5.5
+[/alibabafapiao.com/]tls://223.5.5.5
 [/alibabagroup.com/]tls://223.5.5.5
 [/alibabaonline.com/]tls://223.5.5.5
 [/alibabapictures.com/]tls://223.5.5.5
@@ -10861,6 +10861,7 @@
 [/banwagong.men/]tls://223.5.5.5
 [/banwojia.com/]tls://223.5.5.5
 [/banxiayue.com/]tls://223.5.5.5
+[/banxuewx.com/]tls://223.5.5.5
 [/banyou.la/]tls://223.5.5.5
 [/banyuetan.org/]tls://223.5.5.5
 [/banyuetanxcx.com/]tls://223.5.5.5
@@ -14156,7 +14157,6 @@
 [/cdndm.com/]tls://223.5.5.5
 [/cdndm5.com/]tls://223.5.5.5
 [/cdndm5.net/]tls://223.5.5.5
-[/cdndns8.com/]tls://223.5.5.5
 [/cdndo.com/]tls://223.5.5.5
 [/cdnet110.com/]tls://223.5.5.5
 [/cdnff.com/]tls://223.5.5.5
@@ -16481,6 +16481,8 @@
 [/cmc168.com/]tls://223.5.5.5
 [/cmcc.in/]tls://223.5.5.5
 [/cmcm.com/]tls://223.5.5.5
+[/cmcm5.cc/]tls://223.5.5.5
+[/cmcm5.com/]tls://223.5.5.5
 [/cmcmcdn.com/]tls://223.5.5.5
 [/cmd5.com/]tls://223.5.5.5
 [/cmd5.la/]tls://223.5.5.5
@@ -17367,7 +17369,6 @@
 [/coinnice.com/]tls://223.5.5.5
 [/coinsky.com/]tls://223.5.5.5
 [/coinvs.com/]tls://223.5.5.5
-[/coinw.com/]tls://223.5.5.5
 [/cojia.net/]tls://223.5.5.5
 [/cokemine.com/]tls://223.5.5.5
 [/cokll.com/]tls://223.5.5.5
@@ -18618,9 +18619,6 @@
 [/dadajuan.com/]tls://223.5.5.5
 [/dadakan.com/]tls://223.5.5.5
 [/dadaojiayuan.com/]tls://223.5.5.5
-[/dadatu.co/]tls://223.5.5.5
-[/dadatu5.com/]tls://223.5.5.5
-[/dadatutv.com/]tls://223.5.5.5
 [/dadayou.com/]tls://223.5.5.5
 [/dadclab.com/]tls://223.5.5.5
 [/daddymami.net/]tls://223.5.5.5
@@ -21199,6 +21197,7 @@
 [/dygod.net/]tls://223.5.5.5
 [/dygod.org/]tls://223.5.5.5
 [/dygodj8.com/]tls://223.5.5.5
+[/dyhhy.cc/]tls://223.5.5.5
 [/dyhjw.com/]tls://223.5.5.5
 [/dyhr88.com/]tls://223.5.5.5
 [/dyhzj.com/]tls://223.5.5.5
@@ -33211,6 +33210,7 @@
 [/jiacai001.com/]tls://223.5.5.5
 [/jiachong.net/]tls://223.5.5.5
 [/jiadingqiang.com/]tls://223.5.5.5
+[/jiaduijiaoyou.com/]tls://223.5.5.5
 [/jiae.com/]tls://223.5.5.5
 [/jiafang168.com/]tls://223.5.5.5
 [/jiafenqi.com/]tls://223.5.5.5
@@ -35921,6 +35921,7 @@
 [/kiees.com/]tls://223.5.5.5
 [/kihgwe.com/]tls://223.5.5.5
 [/kiiik.com/]tls://223.5.5.5
+[/kiijoy.com/]tls://223.5.5.5
 [/kiimg.com/]tls://223.5.5.5
 [/kikicici.com/]tls://223.5.5.5
 [/kikitamap.com/]tls://223.5.5.5
@@ -44112,6 +44113,7 @@
 [/opticsjournal.net/]tls://223.5.5.5
 [/opticsx.org/]tls://223.5.5.5
 [/optimix.asia/]tls://223.5.5.5
+[/optimized-ai.com/]tls://223.5.5.5
 [/optinetchina.com/]tls://223.5.5.5
 [/optjcjj.com/]tls://223.5.5.5
 [/optol.net/]tls://223.5.5.5
@@ -46593,6 +46595,7 @@
 [/qinfukai.com/]tls://223.5.5.5
 [/qing-hei.com/]tls://223.5.5.5
 [/qing-shan.com/]tls://223.5.5.5
+[/qing.su/]tls://223.5.5.5
 [/qing5.com/]tls://223.5.5.5
 [/qingbaomofang.com/]tls://223.5.5.5
 [/qingbh.com/]tls://223.5.5.5
@@ -63657,6 +63660,7 @@
 [/yhcmovie.com/]tls://223.5.5.5
 [/yhcqw.com/]tls://223.5.5.5
 [/yhd.com/]tls://223.5.5.5
+[/yhdm.so/]tls://223.5.5.5
 [/yhdm5.com/]tls://223.5.5.5
 [/yhdm7.com/]tls://223.5.5.5
 [/yhdns.net/]tls://223.5.5.5
@@ -65617,6 +65621,7 @@
 [/yunxi10.com/]tls://223.5.5.5
 [/yunxin123.com/]tls://223.5.5.5
 [/yunxindai.com/]tls://223.5.5.5
+[/yunxindns.com/]tls://223.5.5.5
 [/yunxinshi.com/]tls://223.5.5.5
 [/yunxs.com/]tls://223.5.5.5
 [/yunxuetang.com/]tls://223.5.5.5
@@ -66696,6 +66701,7 @@
 [/zhangzifan.com/]tls://223.5.5.5
 [/zhangziran.com/]tls://223.5.5.5
 [/zhangzishi.net/]tls://223.5.5.5
+[/zhangzs.com/]tls://223.5.5.5
 [/zhanh.com/]tls://223.5.5.5
 [/zhanhi.com/]tls://223.5.5.5
 [/zhanjindong.com/]tls://223.5.5.5
