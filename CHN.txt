@@ -27445,6 +27445,7 @@
 [/haoread.com/]tls://223.5.5.5
 [/haorencai.net/]tls://223.5.5.5
 [/haorendao.com/]tls://223.5.5.5
+[/haorenka.me/]tls://223.5.5.5
 [/haorooms.com/]tls://223.5.5.5
 [/haoseals.com/]tls://223.5.5.5
 [/haosenchina.com/]tls://223.5.5.5
@@ -42479,6 +42480,7 @@
 [/nanrenbang.in/]tls://223.5.5.5
 [/nanrenge.net/]tls://223.5.5.5
 [/nanrentu.cc/]tls://223.5.5.5
+[/nanrenvip1.com/]tls://223.5.5.5
 [/nanrenwa.com/]tls://223.5.5.5
 [/nanrenwo.net/]tls://223.5.5.5
 [/nanshan.biz/]tls://223.5.5.5
@@ -55368,6 +55370,7 @@
 [/ttysq.com/]tls://223.5.5.5
 [/ttyyuuoo.com/]tls://223.5.5.5
 [/ttz.com/]tls://223.5.5.5
+[/ttzhongbao.com/]tls://223.5.5.5
 [/ttzhushou.com/]tls://223.5.5.5
 [/ttzw.com/]tls://223.5.5.5
 [/ttzw.tv/]tls://223.5.5.5
@@ -66593,6 +66596,7 @@
 [/zhainanpindao.cc/]tls://223.5.5.5
 [/zhaiqianfeng.com/]tls://223.5.5.5
 [/zhairport.com/]tls://223.5.5.5
+[/zhaisiji.net/]tls://223.5.5.5
 [/zhaixiaoniu.com/]tls://223.5.5.5
 [/zhaji.org/]tls://223.5.5.5
 [/zhan.com/]tls://223.5.5.5
