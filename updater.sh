@@ -9,7 +9,7 @@ git config --global user.email "$GITHUB_MAIL_ADDRESS"
 git config --global user.name "fernvenue"
 git clone git@github.com:fernvenue/chn-domains-list.git
 cd './chn-domains-list'
-curl 'https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list@master/accelerated-domains.china.conf' -o './accelerated-domains.china.conf'
+curl 'https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list/accelerated-domains.china.conf' -o './accelerated-domains.china.conf'
 sed -i 's/[[:space:]]//g' './accelerated-domains.china.conf'
 cp ./accelerated-domains.china.conf ./CHN.yaml
 sed -i "s|server=/|  - '+.|g" ./CHN.yaml
@@ -21,7 +21,7 @@ sed -i "s|/114.114.114.114||g" ./CHN.conf
 cp ./accelerated-domains.china.conf ./CHN.txt
 sed -i 's|server=|[|g' ./CHN.txt
 sed -i 's|114.114.114.114|]tls://223.5.5.5|g' ./CHN.txt
-curl 'https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list@master/apple.china.conf' -o './apple.china.conf'
+curl 'https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list/apple.china.conf' -o './apple.china.conf'
 sed -i 's/[[:space:]]//g' './apple.china.conf'
 cp ./apple.china.conf ./CHN.AAPL.yaml
 sed -i "s|server=/|  - '+.|g" ./CHN.AAPL.yaml
