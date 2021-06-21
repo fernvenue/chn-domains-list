@@ -1,6 +1,6 @@
-# CHN Domains
+# CHN Domains list
 
-[![ddns](https://img.shields.io/badge/LICENSE-BSD3%20Clause%20Liscense-brightgreen?style=flat-square)](./LICENSE)
+[![chn-domains-list](https://img.shields.io/badge/LICENSE-BSD3%20Clause%20Liscense-brightgreen?style=flat-square)](./LICENSE)
 
 ## Details
 
