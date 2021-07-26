@@ -3741,6 +3741,7 @@
 [/4321.com/]tls://223.5.5.5
 [/432520.com/]tls://223.5.5.5
 [/4339.cc/]tls://223.5.5.5
+[/43423manhua.com/]tls://223.5.5.5
 [/435000.com/]tls://223.5.5.5
 [/435200.com/]tls://223.5.5.5
 [/435214.com/]tls://223.5.5.5
@@ -6836,7 +6837,6 @@
 [/88eq.com/]tls://223.5.5.5
 [/88fenxiao.com/]tls://223.5.5.5
 [/88h3.com/]tls://223.5.5.5
-[/88haodian.com/]tls://223.5.5.5
 [/88hom.com/]tls://223.5.5.5
 [/88ht.com/]tls://223.5.5.5
 [/88htu.com/]tls://223.5.5.5
@@ -7776,7 +7776,6 @@
 [/9g.com/]tls://223.5.5.5
 [/9gaoding.com/]tls://223.5.5.5
 [/9gty.net/]tls://223.5.5.5
-[/9gui.net/]tls://223.5.5.5
 [/9hcom.com/]tls://223.5.5.5
 [/9he.com/]tls://223.5.5.5
 [/9host.org/]tls://223.5.5.5
@@ -11673,6 +11672,7 @@
 [/bilicraft.com/]tls://223.5.5.5
 [/biligame.com/]tls://223.5.5.5
 [/biligame.net/]tls://223.5.5.5
+[/bilihot.com/]tls://223.5.5.5
 [/bilimoe.com/]tls://223.5.5.5
 [/bilingling.com/]tls://223.5.5.5
 [/bilinstar.com/]tls://223.5.5.5
@@ -11783,6 +11783,7 @@
 [/biqugeapp.com/]tls://223.5.5.5
 [/biqugebook.com/]tls://223.5.5.5
 [/biqugecom.com/]tls://223.5.5.5
+[/biqugee.com/]tls://223.5.5.5
 [/biqugeg.com/]tls://223.5.5.5
 [/biqugemm.com/]tls://223.5.5.5
 [/biquger.com/]tls://223.5.5.5
@@ -13351,7 +13352,6 @@
 [/caimai.cc/]tls://223.5.5.5
 [/caimaovip.com/]tls://223.5.5.5
 [/caimei365.com/]tls://223.5.5.5
-[/caimigs.com/]tls://223.5.5.5
 [/caimogu.net/]tls://223.5.5.5
 [/caimomo.com/]tls://223.5.5.5
 [/cainachina.com/]tls://223.5.5.5
@@ -17738,7 +17738,6 @@
 [/cric.com/]tls://223.5.5.5
 [/cric2009.com/]tls://223.5.5.5
 [/cricbigdata.com/]tls://223.5.5.5
-[/crifan.com/]tls://223.5.5.5
 [/crifst.com/]tls://223.5.5.5
 [/crimoon.net/]tls://223.5.5.5
 [/crispstata.com/]tls://223.5.5.5
@@ -23501,6 +23500,7 @@
 [/fiphoenix.com/]tls://223.5.5.5
 [/fir.im/]tls://223.5.5.5
 [/fir.vip/]tls://223.5.5.5
+[/firadio.net/]tls://223.5.5.5
 [/fire233.com/]tls://223.5.5.5
 [/fire2333.com/]tls://223.5.5.5
 [/firebirdprint.com/]tls://223.5.5.5
@@ -26147,6 +26147,7 @@
 [/gugu5.com/]tls://223.5.5.5
 [/gugud.com/]tls://223.5.5.5
 [/guguread.com/]tls://223.5.5.5
+[/gugutm.com/]tls://223.5.5.5
 [/gugutown.com/]tls://223.5.5.5
 [/guguyu.com/]tls://223.5.5.5
 [/guguzhu.com/]tls://223.5.5.5
@@ -29345,7 +29346,6 @@
 [/huaci.cc/]tls://223.5.5.5
 [/huacnlee.com/]tls://223.5.5.5
 [/huacolor.com/]tls://223.5.5.5
-[/huacolor.net/]tls://223.5.5.5
 [/huada120.com/]tls://223.5.5.5
 [/huadan.com/]tls://223.5.5.5
 [/huadehyd.com/]tls://223.5.5.5
@@ -31481,7 +31481,6 @@
 [/imotao.com/]tls://223.5.5.5
 [/imoxiu.com/]tls://223.5.5.5
 [/imp3.net/]tls://223.5.5.5
-[/impdo.com/]tls://223.5.5.5
 [/imperfectionstudio.com/]tls://223.5.5.5
 [/imperial-vision.com/]tls://223.5.5.5
 [/impk.cc/]tls://223.5.5.5
@@ -33678,6 +33677,7 @@
 [/jisilu.com/]tls://223.5.5.5
 [/jisu-cnd.com/]tls://223.5.5.5
 [/jisu-edu.com/]tls://223.5.5.5
+[/jisuacg.com/]tls://223.5.5.5
 [/jisuan.mobi/]tls://223.5.5.5
 [/jisuanke.com/]tls://223.5.5.5
 [/jisuanqinet.com/]tls://223.5.5.5
@@ -36273,7 +36273,6 @@
 [/kuaipao8.com/]tls://223.5.5.5
 [/kuaipeilian.com/]tls://223.5.5.5
 [/kuaipng.com/]tls://223.5.5.5
-[/kuaiqiangche.com/]tls://223.5.5.5
 [/kuaiqin.com/]tls://223.5.5.5
 [/kuaiqin.net/]tls://223.5.5.5
 [/kuaiqun.org/]tls://223.5.5.5
@@ -36794,7 +36793,6 @@
 [/lanqi.com/]tls://223.5.5.5
 [/lanqiao.org/]tls://223.5.5.5
 [/lanqibing.com/]tls://223.5.5.5
-[/lanqiutv.com/]tls://223.5.5.5
 [/lanqiuzu.com/]tls://223.5.5.5
 [/lanreelh.com/]tls://223.5.5.5
 [/lanren9.com/]tls://223.5.5.5
@@ -39666,6 +39664,7 @@
 [/manhua1.com/]tls://223.5.5.5
 [/manhua123.net/]tls://223.5.5.5
 [/manhua365.com/]tls://223.5.5.5
+[/manhua456.com/]tls://223.5.5.5
 [/manhuaba.cc/]tls://223.5.5.5
 [/manhuabei.com/]tls://223.5.5.5
 [/manhuacheng.com/]tls://223.5.5.5
@@ -40337,6 +40336,7 @@
 [/menglegame.com/]tls://223.5.5.5
 [/menglei.info/]tls://223.5.5.5
 [/mengma.com/]tls://223.5.5.5
+[/mengma021.com/]tls://223.5.5.5
 [/mengniang.tv/]tls://223.5.5.5
 [/mengniu99.com/]tls://223.5.5.5
 [/mengqiuju.com/]tls://223.5.5.5
@@ -41214,7 +41214,6 @@
 [/mofang.com/]tls://223.5.5.5
 [/mofang.jp/]tls://223.5.5.5
 [/mofangge.com/]tls://223.5.5.5
-[/mofangge.xin/]tls://223.5.5.5
 [/mofanghr.com/]tls://223.5.5.5
 [/mofangshe.com/]tls://223.5.5.5
 [/mofangyu.com/]tls://223.5.5.5
@@ -42240,6 +42239,7 @@
 [/naruto4u.com/]tls://223.5.5.5
 [/narutom.com/]tls://223.5.5.5
 [/nas2x.com/]tls://223.5.5.5
+[/nas66.com/]tls://223.5.5.5
 [/nasgetinfo.com/]tls://223.5.5.5
 [/nashangban.com/]tls://223.5.5.5
 [/nashwork.com/]tls://223.5.5.5
@@ -45063,6 +45063,7 @@
 [/pkurc.com/]tls://223.5.5.5
 [/pkusky.com/]tls://223.5.5.5
 [/pkusp.com/]tls://223.5.5.5
+[/pkuszh.com/]tls://223.5.5.5
 [/pkvs.com/]tls://223.5.5.5
 [/pkzx.com/]tls://223.5.5.5
 [/plaidc.com/]tls://223.5.5.5
@@ -46350,6 +46351,7 @@
 [/qinglm.com/]tls://223.5.5.5
 [/qinglue.net/]tls://223.5.5.5
 [/qinglvcha.com/]tls://223.5.5.5
+[/qingman5.com/]tls://223.5.5.5
 [/qingmang.mobi/]tls://223.5.5.5
 [/qingmayun.com/]tls://223.5.5.5
 [/qingmei.me/]tls://223.5.5.5
@@ -50101,7 +50103,6 @@
 [/shoujikanshu.cc/]tls://223.5.5.5
 [/shoujimi.com/]tls://223.5.5.5
 [/shoujitouping.com/]tls://223.5.5.5
-[/shoujiw.com/]tls://223.5.5.5
 [/shoujiwan.com/]tls://223.5.5.5
 [/shouker.com/]tls://223.5.5.5
 [/shouliwang.com/]tls://223.5.5.5
@@ -56492,6 +56493,7 @@
 [/veryevent.com/]tls://223.5.5.5
 [/verygrass.com/]tls://223.5.5.5
 [/verygslb.com/]tls://223.5.5.5
+[/verygslb.net/]tls://223.5.5.5
 [/veryhappy.pw/]tls://223.5.5.5
 [/veryide.com/]tls://223.5.5.5
 [/veryitman.com/]tls://223.5.5.5
@@ -62957,7 +62959,6 @@
 [/ycgj.cc/]tls://223.5.5.5
 [/ycgjj.net/]tls://223.5.5.5
 [/ycgslb.com/]tls://223.5.5.5
-[/ychdzx.co/]tls://223.5.5.5
 [/ychefu.com/]tls://223.5.5.5
 [/ychmpw.com/]tls://223.5.5.5
 [/ychromedgeie.com/]tls://223.5.5.5
@@ -65584,6 +65585,7 @@
 [/yzmoney.com/]tls://223.5.5.5
 [/yznano.com/]tls://223.5.5.5
 [/yznn.com/]tls://223.5.5.5
+[/yzpsb.com/]tls://223.5.5.5
 [/yzrb.com/]tls://223.5.5.5
 [/yzrcfw.com/]tls://223.5.5.5
 [/yzrom.com/]tls://223.5.5.5
@@ -68438,7 +68440,6 @@
 [/zzobokj.com/]tls://223.5.5.5
 [/zzpd8.com/]tls://223.5.5.5
 [/zzpuke.com/]tls://223.5.5.5
-[/zzpzero.com/]tls://223.5.5.5
 [/zzqklm.com/]tls://223.5.5.5
 [/zzqxs.com/]tls://223.5.5.5
 [/zzrbl.com/]tls://223.5.5.5
