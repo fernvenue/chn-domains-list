@@ -2847,7 +2847,6 @@
 [/31jiaju.com/]tls://223.5.5.5
 [/31jmw.com/]tls://223.5.5.5
 [/31jxw.com/]tls://223.5.5.5
-[/31kan.com/]tls://223.5.5.5
 [/31knit.com/]tls://223.5.5.5
 [/31mada.com/]tls://223.5.5.5
 [/31martech.com/]tls://223.5.5.5
@@ -3835,7 +3834,6 @@
 [/47gs.com/]tls://223.5.5.5
 [/47jh.com/]tls://223.5.5.5
 [/47ks.com/]tls://223.5.5.5
-[/47yun.com/]tls://223.5.5.5
 [/47zu.com/]tls://223.5.5.5
 [/48.com/]tls://223.5.5.5
 [/4846.com/]tls://223.5.5.5
@@ -13582,7 +13580,6 @@
 [/cattsoft.com/]tls://223.5.5.5
 [/catv.net/]tls://223.5.5.5
 [/caua99.com/]tls://223.5.5.5
-[/cauchies.org/]tls://223.5.5.5
 [/caup.net/]tls://223.5.5.5
 [/cauvet.com/]tls://223.5.5.5
 [/cav-ad.com/]tls://223.5.5.5
@@ -31901,7 +31898,6 @@
 [/iradwine.com/]tls://223.5.5.5
 [/iranshao.com/]tls://223.5.5.5
 [/iraoping.com/]tls://223.5.5.5
-[/iraqhosa.com/]tls://223.5.5.5
 [/iray.me/]tls://223.5.5.5
 [/ircmnr.com/]tls://223.5.5.5
 [/iread.cf/]tls://223.5.5.5
@@ -32886,7 +32882,6 @@
 [/jfyiyao.com/]tls://223.5.5.5
 [/jfz.com/]tls://223.5.5.5
 [/jfzhiyao.com/]tls://223.5.5.5
-[/jfzkchina.com/]tls://223.5.5.5
 [/jfzw.com/]tls://223.5.5.5
 [/jgames.net/]tls://223.5.5.5
 [/jgaoxiao.com/]tls://223.5.5.5
@@ -33402,7 +33397,6 @@
 [/jindaodao.com/]tls://223.5.5.5
 [/jindian120.com/]tls://223.5.5.5
 [/jindianweb.com/]tls://223.5.5.5
-[/jindiaoqizhong.com/]tls://223.5.5.5
 [/jindingfm.com/]tls://223.5.5.5
 [/jindun007.net/]tls://223.5.5.5
 [/jindunfan.com/]tls://223.5.5.5
@@ -37787,7 +37781,6 @@
 [/lingaoren.com/]tls://223.5.5.5
 [/lingb.net/]tls://223.5.5.5
 [/lingcaixinyuan.com/]tls://223.5.5.5
-[/lingchenliang.com/]tls://223.5.5.5
 [/lingd.cc/]tls://223.5.5.5
 [/lingd.com/]tls://223.5.5.5
 [/lingdai.name/]tls://223.5.5.5
@@ -39155,7 +39148,6 @@
 [/lxin007.com/]tls://223.5.5.5
 [/lxjep.com/]tls://223.5.5.5
 [/lxjk999.com/]tls://223.5.5.5
-[/lxjwlt.com/]tls://223.5.5.5
 [/lxlggo.com/]tls://223.5.5.5
 [/lxly168.com/]tls://223.5.5.5
 [/lxmiyu.com/]tls://223.5.5.5
@@ -39628,7 +39620,6 @@
 [/mangocity.com/]tls://223.5.5.5
 [/mangoebike.com/]tls://223.5.5.5
 [/mangogame.com/]tls://223.5.5.5
-[/mangowed.com/]tls://223.5.5.5
 [/mangrovetreesanya.com/]tls://223.5.5.5
 [/mangtuhuyu.com/]tls://223.5.5.5
 [/manguo42.com/]tls://223.5.5.5
@@ -45254,7 +45245,6 @@
 [/potevio.com/]tls://223.5.5.5
 [/potianji.net/]tls://223.5.5.5
 [/potplayer.org/]tls://223.5.5.5
-[/potplayer.pro/]tls://223.5.5.5
 [/pouchcontainer.io/]tls://223.5.5.5
 [/poukao.com/]tls://223.5.5.5
 [/power-bd.com/]tls://223.5.5.5
@@ -52430,7 +52420,6 @@
 [/sxhxbank.com/]tls://223.5.5.5
 [/sxiaoshuo.com/]tls://223.5.5.5
 [/sxjagc.com/]tls://223.5.5.5
-[/sxjcylbx.com/]tls://223.5.5.5
 [/sxjzxww.com/]tls://223.5.5.5
 [/sxkid.com/]tls://223.5.5.5
 [/sxkzxt.com/]tls://223.5.5.5
@@ -55179,6 +55168,7 @@
 [/tumukeji.com/]tls://223.5.5.5
 [/tumunity.com/]tls://223.5.5.5
 [/tumuzhe.com/]tls://223.5.5.5
+[/tuna.wiki/]tls://223.5.5.5
 [/tungshungroup.com/]tls://223.5.5.5
 [/tungsten-alloy.com/]tls://223.5.5.5
 [/tungsten-bar.com/]tls://223.5.5.5
@@ -56865,7 +56855,6 @@
 [/vrerse.com/]tls://223.5.5.5
 [/vrgame520.com/]tls://223.5.5.5
 [/vrguancha.net/]tls://223.5.5.5
-[/vrjibao.com/]tls://223.5.5.5
 [/vrjie.com/]tls://223.5.5.5
 [/vrlequ.com/]tls://223.5.5.5
 [/vrmvip.com/]tls://223.5.5.5
@@ -65413,7 +65402,6 @@
 [/yxwoo.com/]tls://223.5.5.5
 [/yxxurl.com/]tls://223.5.5.5
 [/yxyfhgc.com/]tls://223.5.5.5
-[/yxyun.com/]tls://223.5.5.5
 [/yxyzjx.com/]tls://223.5.5.5
 [/yxz.me/]tls://223.5.5.5
 [/yxzxgy.com/]tls://223.5.5.5

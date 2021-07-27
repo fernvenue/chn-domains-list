@@ -116,6 +116,7 @@
 [/swscan.apple.com/]tls://223.5.5.5
 [/updates-http.cdn-apple.com.akadns.net/]tls://223.5.5.5
 [/updates-http.cdn-apple.com/]tls://223.5.5.5
+[/updates.cdn-apple.com/]tls://223.5.5.5
 [/valid.apple.com/]tls://223.5.5.5
 [/valid.origin-apple.com.akadns.net/]tls://223.5.5.5
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
