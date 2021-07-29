@@ -93,7 +93,6 @@
 [/0123456789.biz/]tls://223.5.5.5
 [/0123456789.com/]tls://223.5.5.5
 [/012logo.com/]tls://223.5.5.5
-[/01365.com/]tls://223.5.5.5
 [/01368.com/]tls://223.5.5.5
 [/01368u.com/]tls://223.5.5.5
 [/013767.com/]tls://223.5.5.5
@@ -2399,7 +2398,6 @@
 [/22zryx.com/]tls://223.5.5.5
 [/22zw.com/]tls://223.5.5.5
 [/22zy.net/]tls://223.5.5.5
-[/23-01.com/]tls://223.5.5.5
 [/2300sjz.com/]tls://223.5.5.5
 [/230596.com/]tls://223.5.5.5
 [/230book.com/]tls://223.5.5.5
@@ -6862,10 +6860,8 @@
 [/8961zx.com/]tls://223.5.5.5
 [/896691.com/]tls://223.5.5.5
 [/8977222.vip/]tls://223.5.5.5
-[/8977444.app/]tls://223.5.5.5
 [/8977444.vip/]tls://223.5.5.5
 [/8977567.com/]tls://223.5.5.5
-[/8977888.app/]tls://223.5.5.5
 [/8977888.vip/]tls://223.5.5.5
 [/8979.com/]tls://223.5.5.5
 [/898.travel/]tls://223.5.5.5
@@ -6884,6 +6880,7 @@
 [/8bb.com/]tls://223.5.5.5
 [/8bcd9.com/]tls://223.5.5.5
 [/8bears.com/]tls://223.5.5.5
+[/8bei8.com/]tls://223.5.5.5
 [/8bit.xin/]tls://223.5.5.5
 [/8btc-ops.com/]tls://223.5.5.5
 [/8btc.com/]tls://223.5.5.5
@@ -7479,9 +7476,6 @@
 [/96804.com/]tls://223.5.5.5
 [/96811.com/]tls://223.5.5.5
 [/96822.com/]tls://223.5.5.5
-[/9685222.app/]tls://223.5.5.5
-[/9685333.app/]tls://223.5.5.5
-[/9685777.app/]tls://223.5.5.5
 [/96877.net/]tls://223.5.5.5
 [/968pk.com/]tls://223.5.5.5
 [/969009.com/]tls://223.5.5.5
@@ -8144,7 +8138,6 @@
 [/adanxing.com/]tls://223.5.5.5
 [/adapay.tech/]tls://223.5.5.5
 [/adarrive.com/]tls://223.5.5.5
-[/adas-china.org/]tls://223.5.5.5
 [/adashuo.com/]tls://223.5.5.5
 [/adbats.com/]tls://223.5.5.5
 [/adbxb.com/]tls://223.5.5.5
@@ -8705,7 +8698,6 @@
 [/airmobyte.com/]tls://223.5.5.5
 [/airnut.com/]tls://223.5.5.5
 [/airoha.com.tw/]tls://223.5.5.5
-[/airpub.io/]tls://223.5.5.5
 [/airsavvi.com/]tls://223.5.5.5
 [/airspa.net/]tls://223.5.5.5
 [/airtofly.com/]tls://223.5.5.5
@@ -11756,7 +11748,6 @@
 [/biquge.info/]tls://223.5.5.5
 [/biquge.la/]tls://223.5.5.5
 [/biquge.lu/]tls://223.5.5.5
-[/biquge.tw/]tls://223.5.5.5
 [/biquge.vip/]tls://223.5.5.5
 [/biquge0.cc/]tls://223.5.5.5
 [/biquge11.com/]tls://223.5.5.5
@@ -16181,6 +16172,7 @@
 [/clcindex.com/]tls://223.5.5.5
 [/clclibrary.com/]tls://223.5.5.5
 [/clcmw.com/]tls://223.5.5.5
+[/clcyd.com/]tls://223.5.5.5
 [/cld-mail.ru/]tls://223.5.5.5
 [/clean-cn.com/]tls://223.5.5.5
 [/cleaninfo.com/]tls://223.5.5.5
@@ -19159,6 +19151,7 @@
 [/deepin.org/]tls://223.5.5.5
 [/deepinghost.com/]tls://223.5.5.5
 [/deepinmind.com/]tls://223.5.5.5
+[/deepinos.org/]tls://223.5.5.5
 [/deepleaper.com/]tls://223.5.5.5
 [/deeplearn.me/]tls://223.5.5.5
 [/deepoon.com/]tls://223.5.5.5
@@ -23362,7 +23355,6 @@
 [/ffmulu.com/]tls://223.5.5.5
 [/ffpedia.com/]tls://223.5.5.5
 [/ffpic.com/]tls://223.5.5.5
-[/ffpic.net/]tls://223.5.5.5
 [/ffplay.net/]tls://223.5.5.5
 [/ffquan.com/]tls://223.5.5.5
 [/ffsgame.com/]tls://223.5.5.5
@@ -23372,7 +23364,6 @@
 [/ffxiv.xin/]tls://223.5.5.5
 [/ffyd8.com/]tls://223.5.5.5
 [/ffyinxiang.com/]tls://223.5.5.5
-[/ffzy8.com/]tls://223.5.5.5
 [/fg.cc/]tls://223.5.5.5
 [/fgeekcloud.com/]tls://223.5.5.5
 [/fghi34.com/]tls://223.5.5.5
@@ -24962,6 +24953,7 @@
 [/geizan.cc/]tls://223.5.5.5
 [/gejian.net/]tls://223.5.5.5
 [/gejiawen.com/]tls://223.5.5.5
+[/gejiba.com/]tls://223.5.5.5
 [/gelics.com/]tls://223.5.5.5
 [/gelonghui.com/]tls://223.5.5.5
 [/gelu.me/]tls://223.5.5.5
@@ -29415,7 +29407,6 @@
 [/huanghaicollege.com/]tls://223.5.5.5
 [/huanghanlian.com/]tls://223.5.5.5
 [/huanghecaifu.com/]tls://223.5.5.5
-[/huangheidc.com/]tls://223.5.5.5
 [/huanghepiao.com/]tls://223.5.5.5
 [/huanghouyz.com/]tls://223.5.5.5
 [/huangjiemin.com/]tls://223.5.5.5
@@ -47847,7 +47838,6 @@
 [/ritaipaper.com/]tls://223.5.5.5
 [/ritaomeng.com/]tls://223.5.5.5
 [/ritarpower.com/]tls://223.5.5.5
-[/ritayzy.com/]tls://223.5.5.5
 [/ritering.com/]tls://223.5.5.5
 [/rivergame.net/]tls://223.5.5.5
 [/riyuba.com/]tls://223.5.5.5
@@ -56250,7 +56240,6 @@
 [/v-danci.com/]tls://223.5.5.5
 [/v-ka.com/]tls://223.5.5.5
 [/v007.net/]tls://223.5.5.5
-[/v11237.com/]tls://223.5.5.5
 [/v114.com/]tls://223.5.5.5
 [/v17go.com/]tls://223.5.5.5
 [/v1bo.com/]tls://223.5.5.5
