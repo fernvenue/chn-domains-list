@@ -3123,7 +3123,6 @@
 [/360kuai.com/]tls://223.5.5.5
 [/360kuaixue.com/]tls://223.5.5.5
 [/360kxr.com/]tls://223.5.5.5
-[/360laoshi.com/]tls://223.5.5.5
 [/360lj.com/]tls://223.5.5.5
 [/360log.com/]tls://223.5.5.5
 [/360longyan.com/]tls://223.5.5.5
@@ -7183,7 +7182,6 @@
 [/91tzy.com/]tls://223.5.5.5
 [/91ud.com/]tls://223.5.5.5
 [/91up.com/]tls://223.5.5.5
-[/91uqu.com/]tls://223.5.5.5
 [/91vpn.com/]tls://223.5.5.5
 [/91vps.com/]tls://223.5.5.5
 [/91vst.com/]tls://223.5.5.5
@@ -22449,6 +22447,7 @@
 [/exinee.com/]tls://223.5.5.5
 [/exing103.com/]tls://223.5.5.5
 [/exing113.com/]tls://223.5.5.5
+[/exing118.com/]tls://223.5.5.5
 [/exing125.com/]tls://223.5.5.5
 [/exiqu.com/]tls://223.5.5.5
 [/exmailqq.com/]tls://223.5.5.5
@@ -33572,6 +33571,7 @@
 [/jintoutiao.com/]tls://223.5.5.5
 [/jinwaimai.com/]tls://223.5.5.5
 [/jinwin.net/]tls://223.5.5.5
+[/jinxianglian.net/]tls://223.5.5.5
 [/jinxidao.com/]tls://223.5.5.5
 [/jinxiu8.com/]tls://223.5.5.5
 [/jinxuliang.com/]tls://223.5.5.5
@@ -44597,6 +44597,7 @@
 [/pgzx.net/]tls://223.5.5.5
 [/ph1126.net/]tls://223.5.5.5
 [/phalapi.net/]tls://223.5.5.5
+[/pharmcube.com/]tls://223.5.5.5
 [/phaser-china.com/]tls://223.5.5.5
 [/phb123.com/]tls://223.5.5.5
 [/phdwu.com/]tls://223.5.5.5
@@ -45575,6 +45576,7 @@
 [/pw1999.com/]tls://223.5.5.5
 [/pw88.com/]tls://223.5.5.5
 [/pwmis.com/]tls://223.5.5.5
+[/pwmqr.com/]tls://223.5.5.5
 [/pwp.ink/]tls://223.5.5.5
 [/pwrd.com/]tls://223.5.5.5
 [/pwsannong.com/]tls://223.5.5.5
@@ -53233,6 +53235,7 @@
 [/taozaisheng.com/]tls://223.5.5.5
 [/taozhutu.com/]tls://223.5.5.5
 [/taozhuwu.com/]tls://223.5.5.5
+[/tapapis.com/]tls://223.5.5.5
 [/tapas.net/]tls://223.5.5.5
 [/tapdata.net/]tls://223.5.5.5
 [/tapdb.com/]tls://223.5.5.5
