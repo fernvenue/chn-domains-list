@@ -1612,7 +1612,6 @@
 [/1717ba.com/]tls://223.5.5.5
 [/1717kf.com/]tls://223.5.5.5
 [/1717pk.com/]tls://223.5.5.5
-[/1717y.net/]tls://223.5.5.5
 [/1717zy.com/]tls://223.5.5.5
 [/1718001.com/]tls://223.5.5.5
 [/1718china.com/]tls://223.5.5.5
@@ -4900,7 +4899,6 @@
 [/52udl.com/]tls://223.5.5.5
 [/52unicode.com/]tls://223.5.5.5
 [/52uyn.com/]tls://223.5.5.5
-[/52v9dz.com/]tls://223.5.5.5
 [/52vr.com/]tls://223.5.5.5
 [/52vrdy.com/]tls://223.5.5.5
 [/52wana.com/]tls://223.5.5.5
@@ -4909,6 +4907,7 @@
 [/52wendang.com/]tls://223.5.5.5
 [/52wlw.com/]tls://223.5.5.5
 [/52wmb.com/]tls://223.5.5.5
+[/52wooolpk.com/]tls://223.5.5.5
 [/52wubi.com/]tls://223.5.5.5
 [/52xiaomian.com/]tls://223.5.5.5
 [/52xiaoshuowang.com/]tls://223.5.5.5
@@ -6219,7 +6218,6 @@
 [/77music.com/]tls://223.5.5.5
 [/77mv.com/]tls://223.5.5.5
 [/77nt.com/]tls://223.5.5.5
-[/77power.com/]tls://223.5.5.5
 [/77tianqi.com/]tls://223.5.5.5
 [/77tng.com/]tls://223.5.5.5
 [/77vcd.com/]tls://223.5.5.5
@@ -7121,7 +7119,6 @@
 [/91liangcai.com/]tls://223.5.5.5
 [/91linux.com/]tls://223.5.5.5
 [/91listen.com/]tls://223.5.5.5
-[/91lmgg.com/]tls://223.5.5.5
 [/91lx.com/]tls://223.5.5.5
 [/91lxs.com/]tls://223.5.5.5
 [/91maker.com/]tls://223.5.5.5
@@ -8123,7 +8120,6 @@
 [/adbxb.com/]tls://223.5.5.5
 [/adc-expo.com/]tls://223.5.5.5
 [/adccd.com/]tls://223.5.5.5
-[/adcmove.com/]tls://223.5.5.5
 [/adconfer.com/]tls://223.5.5.5
 [/addaad.com/]tls://223.5.5.5
 [/addgog.com/]tls://223.5.5.5
@@ -8466,7 +8462,6 @@
 [/aichawu.com/]tls://223.5.5.5
 [/aicheren.com/]tls://223.5.5.5
 [/aichunjing.com/]tls://223.5.5.5
-[/aicili.pw/]tls://223.5.5.5
 [/aiclicash.com/]tls://223.5.5.5
 [/aiclk.com/]tls://223.5.5.5
 [/aicloud.com/]tls://223.5.5.5
@@ -10828,7 +10823,6 @@
 [/baoyt.com/]tls://223.5.5.5
 [/baoyung.com/]tls://223.5.5.5
 [/baoyuntong.com/]tls://223.5.5.5
-[/baoyushipin.me/]tls://223.5.5.5
 [/baoyz.com/]tls://223.5.5.5
 [/baoz.net/]tls://223.5.5.5
 [/baozang.com/]tls://223.5.5.5
@@ -12494,7 +12488,6 @@
 [/book520.com/]tls://223.5.5.5
 [/bookask.com/]tls://223.5.5.5
 [/bookba.net/]tls://223.5.5.5
-[/bookbaowang.com/]tls://223.5.5.5
 [/bookbook.in/]tls://223.5.5.5
 [/bookdao.com/]tls://223.5.5.5
 [/bookdown.net/]tls://223.5.5.5
@@ -13097,7 +13090,6 @@
 [/c-c.com/]tls://223.5.5.5
 [/c-canyin.com/]tls://223.5.5.5
 [/c-cnc.com/]tls://223.5.5.5
-[/c-cnzz.com/]tls://223.5.5.5
 [/c-ctrip.com/]tls://223.5.5.5
 [/c-estbon.com/]tls://223.5.5.5
 [/c-fol.net/]tls://223.5.5.5
@@ -16287,7 +16279,6 @@
 [/cmdrh.com/]tls://223.5.5.5
 [/cmdschool.org/]tls://223.5.5.5
 [/cmdy2020.com/]tls://223.5.5.5
-[/cmdy5.com/]tls://223.5.5.5
 [/cmechina.net/]tls://223.5.5.5
 [/cmejob.com/]tls://223.5.5.5
 [/cmenergyshipping.com/]tls://223.5.5.5
@@ -17359,7 +17350,6 @@
 [/coshelper.com/]tls://223.5.5.5
 [/coshi.cc/]tls://223.5.5.5
 [/coship.com/]tls://223.5.5.5
-[/cosinoplat.com/]tls://223.5.5.5
 [/cosize.com/]tls://223.5.5.5
 [/cosmoplat.com/]tls://223.5.5.5
 [/cosoar.com/]tls://223.5.5.5
@@ -19970,7 +19960,6 @@
 [/dngswin7.com/]tls://223.5.5.5
 [/dngsxitong.com/]tls://223.5.5.5
 [/dngz.net/]tls://223.5.5.5
-[/dnhys.com/]tls://223.5.5.5
 [/dnion.com/]tls://223.5.5.5
 [/dnjishu.com/]tls://223.5.5.5
 [/dnjs8.com/]tls://223.5.5.5
@@ -23111,7 +23100,6 @@
 [/feitianwu7.com/]tls://223.5.5.5
 [/feitsui.com/]tls://223.5.5.5
 [/feixiaoquan.com/]tls://223.5.5.5
-[/feixin2.com/]tls://223.5.5.5
 [/feixiong.tv/]tls://223.5.5.5
 [/feixuege.com/]tls://223.5.5.5
 [/feixueteam.net/]tls://223.5.5.5
@@ -24535,7 +24523,6 @@
 [/gaoji.ren/]tls://223.5.5.5
 [/gaojianli.me/]tls://223.5.5.5
 [/gaojie.com/]tls://223.5.5.5
-[/gaojinbo.com/]tls://223.5.5.5
 [/gaokao.com/]tls://223.5.5.5
 [/gaokao365.com/]tls://223.5.5.5
 [/gaokao789.com/]tls://223.5.5.5
@@ -26388,7 +26375,6 @@
 [/gz-cmc.com/]tls://223.5.5.5
 [/gz-cube.com/]tls://223.5.5.5
 [/gz-data.com/]tls://223.5.5.5
-[/gz-forever.com/]tls://223.5.5.5
 [/gz-gz.com/]tls://223.5.5.5
 [/gz-lodihair.com/]tls://223.5.5.5
 [/gz-notary.com/]tls://223.5.5.5
@@ -27986,7 +27972,6 @@
 [/hexilai.com/]tls://223.5.5.5
 [/hexindai.com/]tls://223.5.5.5
 [/hexinli.org/]tls://223.5.5.5
-[/hexlt.org/]tls://223.5.5.5
 [/hexmeet.com/]tls://223.5.5.5
 [/hexun.com/]tls://223.5.5.5
 [/hey-ganzhou.com/]tls://223.5.5.5
@@ -29248,7 +29233,6 @@
 [/huadongmedia.com/]tls://223.5.5.5
 [/huadoo.com/]tls://223.5.5.5
 [/huadream.com/]tls://223.5.5.5
-[/huadunlian.com/]tls://223.5.5.5
 [/huaduocai.net/]tls://223.5.5.5
 [/huadx.com/]tls://223.5.5.5
 [/huaease.net/]tls://223.5.5.5
@@ -30801,7 +30785,6 @@
 [/ieepa.org/]tls://223.5.5.5
 [/iefang.com/]tls://223.5.5.5
 [/iefans.net/]tls://223.5.5.5
-[/ieforex.com/]tls://223.5.5.5
 [/iegcom.com/]tls://223.5.5.5
 [/iegee.net/]tls://223.5.5.5
 [/iegourl.com/]tls://223.5.5.5
@@ -34600,7 +34583,6 @@
 [/junyudns.com/]tls://223.5.5.5
 [/junyuewl.com/]tls://223.5.5.5
 [/junyuxuan.com/]tls://223.5.5.5
-[/junzhiip.com/]tls://223.5.5.5
 [/junzhuan.com/]tls://223.5.5.5
 [/junziboxue.com/]tls://223.5.5.5
 [/junzimen.com/]tls://223.5.5.5
@@ -35492,7 +35474,6 @@
 [/keyshot.cc/]tls://223.5.5.5
 [/keyuhome.com/]tls://223.5.5.5
 [/keyunsoft.com/]tls://223.5.5.5
-[/keywin.org/]tls://223.5.5.5
 [/keyyou.net/]tls://223.5.5.5
 [/kezhaozhao.com/]tls://223.5.5.5
 [/kezool.com/]tls://223.5.5.5
@@ -35572,6 +35553,7 @@
 [/kindle-china.org/]tls://223.5.5.5
 [/kindle114.com/]tls://223.5.5.5
 [/kindle1688.com/]tls://223.5.5.5
+[/kindle8.cc/]tls://223.5.5.5
 [/kindlehub.mobi/]tls://223.5.5.5
 [/kindlelib.com/]tls://223.5.5.5
 [/kindleport.com/]tls://223.5.5.5
@@ -37338,7 +37320,6 @@
 [/lghsrh.com/]tls://223.5.5.5
 [/lgmjg.com/]tls://223.5.5.5
 [/lgo100.com/]tls://223.5.5.5
-[/lgoing.com/]tls://223.5.5.5
 [/lgole.com/]tls://223.5.5.5
 [/lgpic.com/]tls://223.5.5.5
 [/lgstatic.com/]tls://223.5.5.5
@@ -38153,7 +38134,6 @@
 [/ljxww.com/]tls://223.5.5.5
 [/ljyewei.com/]tls://223.5.5.5
 [/ljzfin.com/]tls://223.5.5.5
-[/lkaty.com/]tls://223.5.5.5
 [/lkcsgo.com/]tls://223.5.5.5
 [/lkgame.com/]tls://223.5.5.5
 [/lkgshq.com/]tls://223.5.5.5
@@ -38212,7 +38192,6 @@
 [/lmjtgs.com/]tls://223.5.5.5
 [/lmjx.net/]tls://223.5.5.5
 [/lmlc.com/]tls://223.5.5.5
-[/lmlphp.com/]tls://223.5.5.5
 [/lmlym.com/]tls://223.5.5.5
 [/lmm8.com/]tls://223.5.5.5
 [/lmsail.com/]tls://223.5.5.5
@@ -42201,7 +42180,6 @@
 [/ncu.space/]tls://223.5.5.5
 [/ncvtinfo.com/]tls://223.5.5.5
 [/ncvtmi.com/]tls://223.5.5.5
-[/ncwsxd.com/]tls://223.5.5.5
 [/ncwyxh.com/]tls://223.5.5.5
 [/ncxb.com/]tls://223.5.5.5
 [/ncyinghuochong.net/]tls://223.5.5.5
@@ -45544,7 +45522,6 @@
 [/pz18155.com/]tls://223.5.5.5
 [/pz580.com/]tls://223.5.5.5
 [/pz6.com/]tls://223.5.5.5
-[/pz6623.com/]tls://223.5.5.5
 [/pz6682.com/]tls://223.5.5.5
 [/pzds.com/]tls://223.5.5.5
 [/pzhccb.com/]tls://223.5.5.5
@@ -47491,7 +47468,6 @@
 [/reformdata.org/]tls://223.5.5.5
 [/refractorywin.com/]tls://223.5.5.5
 [/reg007.com/]tls://223.5.5.5
-[/regainvip.com/]tls://223.5.5.5
 [/regishome.com/]tls://223.5.5.5
 [/reglogo.net/]tls://223.5.5.5
 [/regtm.com/]tls://223.5.5.5
@@ -50787,7 +50763,6 @@
 [/skywhat.com/]tls://223.5.5.5
 [/skywldh.com/]tls://223.5.5.5
 [/skyworth-ac.com/]tls://223.5.5.5
-[/skyworth-ai.com/]tls://223.5.5.5
 [/skyworth-cloud.com/]tls://223.5.5.5
 [/skyworth-ea.com/]tls://223.5.5.5
 [/skyworth-mould.com/]tls://223.5.5.5
@@ -51476,7 +51451,6 @@
 [/spps.cc/]tls://223.5.5.5
 [/spr-atm.com/]tls://223.5.5.5
 [/sprabbit.com/]tls://223.5.5.5
-[/spralipay.com/]tls://223.5.5.5
 [/spreton.com/]tls://223.5.5.5
 [/spring4all.com/]tls://223.5.5.5
 [/springairlines.com/]tls://223.5.5.5
@@ -52405,7 +52379,6 @@
 [/sysjdjy.com/]tls://223.5.5.5
 [/sysmini.com/]tls://223.5.5.5
 [/sysmk120.com/]tls://223.5.5.5
-[/sysppc.com/]tls://223.5.5.5
 [/sysrsksy.com/]tls://223.5.5.5
 [/systoon.com/]tls://223.5.5.5
 [/sysush.com/]tls://223.5.5.5
@@ -54809,7 +54782,6 @@
 [/ttsmmwb.com/]tls://223.5.5.5
 [/ttsq6.net/]tls://223.5.5.5
 [/ttstream.com/]tls://223.5.5.5
-[/ttsunion.com/]tls://223.5.5.5
 [/ttsz8.com/]tls://223.5.5.5
 [/ttthing.com/]tls://223.5.5.5
 [/tttuangou.net/]tls://223.5.5.5
@@ -55266,7 +55238,6 @@
 [/tyhuoyun.com/]tls://223.5.5.5
 [/tyi365.com/]tls://223.5.5.5
 [/tyjinyun.com/]tls://223.5.5.5
-[/tyjlwy.com/]tls://223.5.5.5
 [/tyjmmy.com/]tls://223.5.5.5
 [/tyjmqz.com/]tls://223.5.5.5
 [/tyksl.com/]tls://223.5.5.5
@@ -55381,7 +55352,6 @@
 [/u9time.com/]tls://223.5.5.5
 [/u9u8.com/]tls://223.5.5.5
 [/u9u9.com/]tls://223.5.5.5
-[/ua.mk/]tls://223.5.5.5
 [/ua168.com/]tls://223.5.5.5
 [/uadrc.com/]tls://223.5.5.5
 [/uadscc.com/]tls://223.5.5.5
@@ -56749,7 +56719,6 @@
 [/vulogcn.com/]tls://223.5.5.5
 [/vultr1.com/]tls://223.5.5.5
 [/vultrcn.com/]tls://223.5.5.5
-[/vultrer.com/]tls://223.5.5.5
 [/vultrla.com/]tls://223.5.5.5
 [/vultrvps.com/]tls://223.5.5.5
 [/vunion.net/]tls://223.5.5.5
@@ -56800,7 +56769,6 @@
 [/vycool.com/]tls://223.5.5.5
 [/vyg.net/]tls://223.5.5.5
 [/vyin.com/]tls://223.5.5.5
-[/vyougame.com/]tls://223.5.5.5
 [/vysj.com/]tls://223.5.5.5
 [/vyuan8.com/]tls://223.5.5.5
 [/vyun.com/]tls://223.5.5.5
@@ -57913,7 +57881,6 @@
 [/wenshen.net/]tls://223.5.5.5
 [/wenshen010.com/]tls://223.5.5.5
 [/wenshen8.net/]tls://223.5.5.5
-[/wenshenbj.com/]tls://223.5.5.5
 [/wenshendaka.com/]tls://223.5.5.5
 [/wenshenku.com/]tls://223.5.5.5
 [/wensheno.com/]tls://223.5.5.5
@@ -59513,7 +59480,6 @@
 [/www.htc.com/]tls://223.5.5.5
 [/www.htcsense.com/]tls://223.5.5.5
 [/www.htcvive.com/]tls://223.5.5.5
-[/www.kaspersky.com/]tls://223.5.5.5
 #[/www.linkedin.com/]tls://223.5.5.5#Disabled:https://github.com/felixonmars/dnsmasq-china-list/issues/335
 [/www.microsoft.com/]tls://223.5.5.5
 [/www.nike.com/]tls://223.5.5.5
@@ -60831,7 +60797,6 @@
 [/xihawan8.com/]tls://223.5.5.5
 [/xihuan.me/]tls://223.5.5.5
 [/xihuanfang.com/]tls://223.5.5.5
-[/xihuanqian.com/]tls://223.5.5.5
 [/xihuojie.com/]tls://223.5.5.5
 [/xihusgh.com/]tls://223.5.5.5
 [/xihustateguesthangzhou.com/]tls://223.5.5.5
@@ -60928,7 +60893,6 @@
 [/xingbangip.com/]tls://223.5.5.5
 [/xingbo.tv/]tls://223.5.5.5
 [/xingchenjia.com/]tls://223.5.5.5
-[/xingchenw.com/]tls://223.5.5.5
 [/xingcheshixian.com/]tls://223.5.5.5
 [/xingdaoo.com/]tls://223.5.5.5
 [/xingdatrip.com/]tls://223.5.5.5
@@ -62645,7 +62609,6 @@
 [/yaoliwang.com/]tls://223.5.5.5
 [/yaomaiche.com/]tls://223.5.5.5
 [/yaoman.net/]tls://223.5.5.5
-[/yaomaner.com/]tls://223.5.5.5
 [/yaonano.com/]tls://223.5.5.5
 [/yaooxx.space/]tls://223.5.5.5
 [/yaopaiming.com/]tls://223.5.5.5
@@ -65099,7 +65062,6 @@
 [/yuzeli.com/]tls://223.5.5.5
 [/yuzhaimedia.com/]tls://223.5.5.5
 [/yuzhainan.com/]tls://223.5.5.5
-[/yuzhaiwuwang.com/]tls://223.5.5.5
 [/yuzhenhai.com/]tls://223.5.5.5
 [/yuzhike.com/]tls://223.5.5.5
 [/yuzhong.net/]tls://223.5.5.5
@@ -68110,7 +68072,6 @@
 [/zymkcdn.com/]tls://223.5.5.5
 [/zymreal.com/]tls://223.5.5.5
 [/zymxp.com/]tls://223.5.5.5
-[/zynh.org/]tls://223.5.5.5
 [/zyoffice.com/]tls://223.5.5.5
 [/zyoogame.com/]tls://223.5.5.5
 [/zyops.com/]tls://223.5.5.5
@@ -68199,7 +68160,6 @@
 [/zzhaoz.com/]tls://223.5.5.5
 [/zzhlzc.com/]tls://223.5.5.5
 [/zzhscdq.com/]tls://223.5.5.5
-[/zzhunshasheying.com/]tls://223.5.5.5
 [/zzidc.com/]tls://223.5.5.5
 [/zzit.org/]tls://223.5.5.5
 [/zzjaz.com/]tls://223.5.5.5
