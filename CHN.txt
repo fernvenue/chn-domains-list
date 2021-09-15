@@ -5247,7 +5247,6 @@
 [/58xs.com/]tls://223.5.5.5
 [/58xs.la/]tls://223.5.5.5
 [/58xs.tw/]tls://223.5.5.5
-[/58xuechewang.com/]tls://223.5.5.5
 [/58xuexi.com/]tls://223.5.5.5
 [/58yiji.com/]tls://223.5.5.5
 [/58yuefu.com/]tls://223.5.5.5
@@ -19658,6 +19657,7 @@
 [/diyifangdai.com/]tls://223.5.5.5
 [/diyifanwen.com/]tls://223.5.5.5
 [/diyifanwen.net/]tls://223.5.5.5
+[/diyigaokao.com/]tls://223.5.5.5
 [/diyihuifu.com/]tls://223.5.5.5
 [/diyijuzi.com/]tls://223.5.5.5
 [/diyinews.com/]tls://223.5.5.5
@@ -43990,6 +43990,7 @@
 [/patchallin.com/]tls://223.5.5.5
 [/patchew.org/]tls://223.5.5.5
 [/patent-cn.com/]tls://223.5.5.5
+[/patent9.com/]tls://223.5.5.5
 [/patexplorer.com/]tls://223.5.5.5
 [/patindex.com/]tls://223.5.5.5
 [/patmm.com/]tls://223.5.5.5
@@ -48813,6 +48814,7 @@
 [/sevencdn.com/]tls://223.5.5.5
 [/sevenseas-china.com/]tls://223.5.5.5
 [/sewise.com/]tls://223.5.5.5
+[/sexytea2013.com/]tls://223.5.5.5
 [/sf-airlines.com/]tls://223.5.5.5
 [/sf-bearing.com/]tls://223.5.5.5
 [/sf-card.com/]tls://223.5.5.5
@@ -55425,6 +55427,7 @@
 [/unclicks.com/]tls://223.5.5.5
 [/undefined.ltd/]tls://223.5.5.5
 [/underfill.cc/]tls://223.5.5.5
+[/uneed.com/]tls://223.5.5.5
 [/unfish.net/]tls://223.5.5.5
 [/ungifts.com/]tls://223.5.5.5
 [/uni-perfect.com/]tls://223.5.5.5
@@ -59941,6 +59944,7 @@
 [/xiald.com/]tls://223.5.5.5
 [/xialingying.cc/]tls://223.5.5.5
 [/xialv.com/]tls://223.5.5.5
+[/xiamai.net/]tls://223.5.5.5
 [/xiamenair.com/]tls://223.5.5.5
 [/xiamentianqi114.com/]tls://223.5.5.5
 [/xiami.com/]tls://223.5.5.5
@@ -60153,7 +60157,6 @@
 [/xiaohe97.com/]tls://223.5.5.5
 [/xiaohei.com/]tls://223.5.5.5
 [/xiaoheima.com/]tls://223.5.5.5
-[/xiaohongblog.com/]tls://223.5.5.5
 [/xiaohongchun.com/]tls://223.5.5.5
 [/xiaohongdian.wang/]tls://223.5.5.5
 [/xiaohongshu.com/]tls://223.5.5.5
@@ -60245,6 +60248,7 @@
 [/xiaominfo.com/]tls://223.5.5.5
 [/xiaoming.me/]tls://223.5.5.5
 [/xiaomingming.org/]tls://223.5.5.5
+[/xiaomiqiu.com/]tls://223.5.5.5
 [/xiaomiquan.com/]tls://223.5.5.5
 [/xiaomishu.com/]tls://223.5.5.5
 [/xiaomiwujiecao.com/]tls://223.5.5.5
@@ -60647,6 +60651,7 @@
 [/xingfagroup.com/]tls://223.5.5.5
 [/xingfudu.com/]tls://223.5.5.5
 [/xingfufangdai.com/]tls://223.5.5.5
+[/xingfulizhaofang.com/]tls://223.5.5.5
 [/xingfunancun.com/]tls://223.5.5.5
 [/xingfuu.com/]tls://223.5.5.5
 [/xinggan.com/]tls://223.5.5.5
@@ -61902,6 +61907,7 @@
 [/xxlinux.com/]tls://223.5.5.5
 [/xxliudsp.com/]tls://223.5.5.5
 [/xxlwin.com/]tls://223.5.5.5
+[/xxm.plus/]tls://223.5.5.5
 [/xxmac.com/]tls://223.5.5.5
 [/xxmanhua.info/]tls://223.5.5.5
 [/xxmh117.com/]tls://223.5.5.5
@@ -63745,6 +63751,7 @@
 [/youdiancms.com/]tls://223.5.5.5
 [/youdnser.com/]tls://223.5.5.5
 [/youdu.im/]tls://223.5.5.5
+[/youdwh.com/]tls://223.5.5.5
 [/youease.net/]tls://223.5.5.5
 [/youedata.com/]tls://223.5.5.5
 [/youeryun.com/]tls://223.5.5.5
@@ -65996,6 +66003,7 @@
 [/zhh.me/]tls://223.5.5.5
 [/zhhainiao.com/]tls://223.5.5.5
 [/zhhs-china.com/]tls://223.5.5.5
+[/zhhtxt.com/]tls://223.5.5.5
 [/zhhuahui.com/]tls://223.5.5.5
 [/zhhy-oa.com/]tls://223.5.5.5
 [/zhi-bo.net/]tls://223.5.5.5
