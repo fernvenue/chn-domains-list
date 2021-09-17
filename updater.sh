@@ -21,6 +21,7 @@ sed -i "s|/114.114.114.114||g" ./CHN.conf
 cp ./accelerated-domains.china.conf ./CHN.txt
 sed -i 's|server=|[|g' ./CHN.txt
 sed -i 's|114.114.114.114|]tls://223.5.5.5|g' ./CHN.txt
+rm ./accelerated-domains.china.conf
 curl 'https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list/apple.china.conf' -o './apple.china.conf'
 sed -i 's/[[:space:]]//g' './apple.china.conf'
 cp ./apple.china.conf ./CHN.AAPL.yaml
@@ -33,6 +34,7 @@ sed -i "s|/114.114.114.114||g" ./CHN.AAPL.conf
 cp ./apple.china.conf ./CHN.AAPL.txt
 sed -i 's|server=|[|g' ./CHN.AAPL.txt
 sed -i 's|114.114.114.114|]tls://223.5.5.5|g' ./CHN.AAPL.txt
+rm ./apple.china.conf
 git init
 git add .
 git commit -m 'Update CHN Domains list'
