@@ -4963,7 +4963,6 @@
 [/54benniao.com/]tls://223.5.5.5
 [/54bk.com/]tls://223.5.5.5
 [/54bt.com/]tls://223.5.5.5
-[/54chen.com/]tls://223.5.5.5
 [/54doctor.net/]tls://223.5.5.5
 [/54doctors.net/]tls://223.5.5.5
 [/54fcnr.com/]tls://223.5.5.5
@@ -19955,7 +19954,6 @@
 [/docs.djicdn.com/]tls://223.5.5.5
 [/docs.microsoft.com/]tls://223.5.5.5
 [/docs.oracle.com/]tls://223.5.5.5
-[/docs4dev.com/]tls://223.5.5.5
 [/docschina.org/]tls://223.5.5.5
 [/docsou.com/]tls://223.5.5.5
 [/doctorcom.com/]tls://223.5.5.5
@@ -24000,8 +23998,6 @@
 [/fw4.co/]tls://223.5.5.5
 [/fw4.me/]tls://223.5.5.5
 [/fwcdn.com/]tls://223.5.5.5
-[/fwcdn.net/]tls://223.5.5.5
-[/fwdns.net/]tls://223.5.5.5
 [/fwdq.com/]tls://223.5.5.5
 [/fwdq.net/]tls://223.5.5.5
 [/fwdqw.com/]tls://223.5.5.5
@@ -26471,7 +26467,6 @@
 [/habadog.com/]tls://223.5.5.5
 [/habbygames.com/]tls://223.5.5.5
 [/hac-ker.net/]tls://223.5.5.5
-[/hacdn.com/]tls://223.5.5.5
 [/hacdn.net/]tls://223.5.5.5
 [/hack0nair.me/]tls://223.5.5.5
 [/hack50.com/]tls://223.5.5.5
@@ -27143,6 +27138,7 @@
 [/hashfish.net/]tls://223.5.5.5
 [/hashnest.com/]tls://223.5.5.5
 [/hasndq.com/]tls://223.5.5.5
+[/hassbian.com/]tls://223.5.5.5
 [/hat358.com/]tls://223.5.5.5
 [/hatdot.com/]tls://223.5.5.5
 [/hatfav.com/]tls://223.5.5.5
@@ -37442,7 +37438,6 @@
 [/linewow.com/]tls://223.5.5.5
 [/linezing.com/]tls://223.5.5.5
 [/linfan.com/]tls://223.5.5.5
-[/linfan.net/]tls://223.5.5.5
 [/lingaoren.com/]tls://223.5.5.5
 [/lingb.net/]tls://223.5.5.5
 [/lingcaixinyuan.com/]tls://223.5.5.5
@@ -53812,7 +53807,6 @@
 [/tmechina.org/]tls://223.5.5.5
 [/tmeiju.com/]tls://223.5.5.5
 [/tmetb.com/]tls://223.5.5.5
-[/tmetb.net/]tls://223.5.5.5
 [/tmhong.com/]tls://223.5.5.5
 [/tmhvps.com/]tls://223.5.5.5
 [/tmigoods.com/]tls://223.5.5.5
