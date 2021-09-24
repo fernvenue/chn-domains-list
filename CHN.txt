@@ -4981,7 +4981,6 @@
 [/54share.com/]tls://223.5.5.5
 [/54tf.com/]tls://223.5.5.5
 [/54traveler.com/]tls://223.5.5.5
-[/54tushu.com/]tls://223.5.5.5
 [/54tusi.com/]tls://223.5.5.5
 [/54up.net/]tls://223.5.5.5
 [/54yt.net/]tls://223.5.5.5
@@ -7402,7 +7401,6 @@
 [/96app.com/]tls://223.5.5.5
 [/96bbs.com/]tls://223.5.5.5
 [/96caifu.com/]tls://223.5.5.5
-[/96chengbao.com/]tls://223.5.5.5
 [/96dp.com/]tls://223.5.5.5
 [/96go.com/]tls://223.5.5.5
 [/96hq.com/]tls://223.5.5.5
@@ -13127,6 +13125,7 @@
 [/caidian.com/]tls://223.5.5.5
 [/caidianqu.com/]tls://223.5.5.5
 [/caiens.com/]tls://223.5.5.5
+[/caifu.com/]tls://223.5.5.5
 [/caifu110.com/]tls://223.5.5.5
 [/caifuxingketang.com/]tls://223.5.5.5
 [/caifuzhongwen.com/]tls://223.5.5.5
@@ -30306,7 +30305,6 @@
 [/icharm.me/]tls://223.5.5.5
 [/ichat800.com/]tls://223.5.5.5
 [/ichdata.com/]tls://223.5.5.5
-[/ichefeng.com/]tls://223.5.5.5
 [/ichehaopei.com/]tls://223.5.5.5
 [/ichehome.com/]tls://223.5.5.5
 [/ichenfei.com/]tls://223.5.5.5
@@ -34173,7 +34171,6 @@
 [/jtlw.com/]tls://223.5.5.5
 [/jtnsh.com/]tls://223.5.5.5
 [/jtnxs.com/]tls://223.5.5.5
-[/jtqh.net/]tls://223.5.5.5
 [/jtstudy.com/]tls://223.5.5.5
 [/jttv.net/]tls://223.5.5.5
 [/jtv123.com/]tls://223.5.5.5
@@ -34772,7 +34769,6 @@
 [/kaijia.com/]tls://223.5.5.5
 [/kaijia.me/]tls://223.5.5.5
 [/kaijiaweishi.com/]tls://223.5.5.5
-[/kaijun.win/]tls://223.5.5.5
 [/kaikeba.com/]tls://223.5.5.5
 [/kailing.pub/]tls://223.5.5.5
 [/kaimanhua.com/]tls://223.5.5.5
@@ -34924,7 +34920,6 @@
 [/kansp.com/]tls://223.5.5.5
 [/kantao.net/]tls://223.5.5.5
 [/kantiantang.com/]tls://223.5.5.5
-[/kantiantang.net/]tls://223.5.5.5
 [/kantsuu.com/]tls://223.5.5.5
 [/kantu.com/]tls://223.5.5.5
 [/kanwby.com/]tls://223.5.5.5
@@ -43741,6 +43736,7 @@
 [/panchuang.net/]tls://223.5.5.5
 [/pancishe.com/]tls://223.5.5.5
 [/panda.tv/]tls://223.5.5.5
+[/panda321.com/]tls://223.5.5.5
 [/panda98.com/]tls://223.5.5.5
 [/pandadastudio.com/]tls://223.5.5.5
 [/pandafoundation.org/]tls://223.5.5.5
@@ -44367,7 +44363,6 @@
 [/pictureknow.com/]tls://223.5.5.5
 [/picup.shop/]tls://223.5.5.5
 [/picxiaobai.com/]tls://223.5.5.5
-[/picyoung.com/]tls://223.5.5.5
 [/picyq.com/]tls://223.5.5.5
 [/pidcn.com/]tls://223.5.5.5
 [/pieeco.com/]tls://223.5.5.5
@@ -52987,7 +52982,6 @@
 [/teemmm.com/]tls://223.5.5.5
 [/teencn.com/]tls://223.5.5.5
 [/teeqee.com/]tls://223.5.5.5
-[/teeterstoop.store/]tls://223.5.5.5
 [/tefl-china.net/]tls://223.5.5.5
 [/tegongji.com/]tls://223.5.5.5
 [/tegoushe.com/]tls://223.5.5.5
@@ -53952,7 +53946,6 @@
 [/tongyou188.com/]tls://223.5.5.5
 [/tongyuanos.com/]tls://223.5.5.5
 [/tongyue.com/]tls://223.5.5.5
-[/tongzhougongjin.com/]tls://223.5.5.5
 [/tongzhousy.com/]tls://223.5.5.5
 [/tongzhuo100.com/]tls://223.5.5.5
 [/tonitech.com/]tls://223.5.5.5
@@ -61784,7 +61777,6 @@
 [/xxkt.org/]tls://223.5.5.5
 [/xxkucun.com/]tls://223.5.5.5
 [/xxlcn.com/]tls://223.5.5.5
-[/xxlinux.com/]tls://223.5.5.5
 [/xxliudsp.com/]tls://223.5.5.5
 [/xxlwin.com/]tls://223.5.5.5
 [/xxm.plus/]tls://223.5.5.5
@@ -64913,6 +64905,7 @@
 [/yyxxgame.com/]tls://223.5.5.5
 [/yyxxgameyw.com/]tls://223.5.5.5
 [/yyyeee.com/]tls://223.5.5.5
+[/yyyy.games/]tls://223.5.5.5
 [/yyzai.com/]tls://223.5.5.5
 [/yyzsoft.com/]tls://223.5.5.5
 [/yyzw.com/]tls://223.5.5.5
