@@ -2,8 +2,6 @@
 
 [![chn-domains-list](https://img.shields.io/badge/LICENSE-BSD3%20Clause%20Liscense-red?style=flat-square)](./LICENSE)
 
-## Details
-
 **Multi-format secondary distribution of CHN Domains list.<br>**
 
 Use CI/CD to automatically check and update, each update within one day.<br>
