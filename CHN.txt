@@ -543,6 +543,7 @@
 [/0730news.com/]tls://223.5.5.5
 [/0730seo.com/]tls://223.5.5.5
 [/073122.com/]tls://223.5.5.5
+[/0731a.com/]tls://223.5.5.5
 [/0731cfw.com/]tls://223.5.5.5
 [/0731fdc.com/]tls://223.5.5.5
 [/0731i.com/]tls://223.5.5.5
@@ -4319,7 +4320,6 @@
 [/51mokao.com/]tls://223.5.5.5
 [/51mole.com/]tls://223.5.5.5
 [/51moot.net/]tls://223.5.5.5
-[/51mp3ring.com/]tls://223.5.5.5
 [/51mrp.com/]tls://223.5.5.5
 [/51mta.com/]tls://223.5.5.5
 [/51mtw.com/]tls://223.5.5.5
@@ -5813,6 +5813,7 @@
 [/698wan.com/]tls://223.5.5.5
 [/69916666.com/]tls://223.5.5.5
 [/699g.com/]tls://223.5.5.5
+[/699h5.com/]tls://223.5.5.5
 [/699pic.com/]tls://223.5.5.5
 [/699xs.com/]tls://223.5.5.5
 [/69cy.net/]tls://223.5.5.5
@@ -11765,7 +11766,6 @@
 [/bjadn.net/]tls://223.5.5.5
 [/bjaic.com/]tls://223.5.5.5
 [/bjaodidazhong.com/]tls://223.5.5.5
-[/bjaokaihua.com/]tls://223.5.5.5
 [/bjatv.com/]tls://223.5.5.5
 [/bjbaidu88.com/]tls://223.5.5.5
 [/bjbaodao.net/]tls://223.5.5.5
@@ -12274,6 +12274,7 @@
 [/bog.ac/]tls://223.5.5.5
 [/bogokj.com/]tls://223.5.5.5
 [/bohailife.net/]tls://223.5.5.5
+[/bohaishibei.com/]tls://223.5.5.5
 [/bohaiyun.com/]tls://223.5.5.5
 [/bohe.com/]tls://223.5.5.5
 [/bohuihe.com/]tls://223.5.5.5
@@ -12396,7 +12397,6 @@
 [/boruiqin.com/]tls://223.5.5.5
 [/boruishijie.com/]tls://223.5.5.5
 [/boruisx.com/]tls://223.5.5.5
-[/boruisz.com/]tls://223.5.5.5
 [/boryou.com/]tls://223.5.5.5
 [/bos.xin/]tls://223.5.5.5
 [/bosdile.com/]tls://223.5.5.5
@@ -19846,6 +19846,7 @@
 [/dnsour.com/]tls://223.5.5.5
 [/dnspai.com/]tls://223.5.5.5
 [/dnspig.com/]tls://223.5.5.5
+[/dnsplus.co/]tls://223.5.5.5
 [/dnspod.com/]tls://223.5.5.5
 [/dnspod.net/]tls://223.5.5.5
 [/dnspood.net/]tls://223.5.5.5
@@ -20574,7 +20575,6 @@
 [/duososo.com/]tls://223.5.5.5
 [/duosq.com/]tls://223.5.5.5
 [/duost.com/]tls://223.5.5.5
-[/duotai.co/]tls://223.5.5.5
 [/duotai.net/]tls://223.5.5.5
 [/duote.com/]tls://223.5.5.5
 [/duotoupiao.com/]tls://223.5.5.5
@@ -25785,6 +25785,7 @@
 [/gucn.com/]tls://223.5.5.5
 [/gucun.info/]tls://223.5.5.5
 [/gucunpark.net/]tls://223.5.5.5
+[/gudage.cc/]tls://223.5.5.5
 [/gudaiba.com/]tls://223.5.5.5
 [/gudaovision.com/]tls://223.5.5.5
 [/gudi.cc/]tls://223.5.5.5
@@ -39934,7 +39935,6 @@
 [/mg-pen.com/]tls://223.5.5.5
 [/mg21.com/]tls://223.5.5.5
 [/mg3721.com/]tls://223.5.5.5
-[/mg6440.com/]tls://223.5.5.5
 [/mg67.com/]tls://223.5.5.5
 [/mgc-games.com/]tls://223.5.5.5
 [/mgd5.com/]tls://223.5.5.5
@@ -45484,6 +45484,7 @@
 [/qianhai12315.com/]tls://223.5.5.5
 [/qianhaiaiaitie.com/]tls://223.5.5.5
 [/qianhuaweb.com/]tls://223.5.5.5
+[/qianhujz.com/]tls://223.5.5.5
 [/qianinfo.com/]tls://223.5.5.5
 [/qianjia.com/]tls://223.5.5.5
 [/qianjiayue.com/]tls://223.5.5.5
@@ -54650,6 +54651,7 @@
 [/tv002.com/]tls://223.5.5.5
 [/tv189.com/]tls://223.5.5.5
 [/tv2stb.com/]tls://223.5.5.5
+[/tv3w.com/]tls://223.5.5.5
 [/tv432.com/]tls://223.5.5.5
 [/tv5box.com/]tls://223.5.5.5
 [/tvandnet.com/]tls://223.5.5.5
@@ -57701,7 +57703,6 @@
 [/whitemedia-china.com/]tls://223.5.5.5
 [/whitjy.com/]tls://223.5.5.5
 [/whjbh.com/]tls://223.5.5.5
-[/whjcbus.com/]tls://223.5.5.5
 [/whjclgs.com/]tls://223.5.5.5
 [/whjcly.com/]tls://223.5.5.5
 [/whjhcz.com/]tls://223.5.5.5
@@ -58708,6 +58709,7 @@
 [/wsyyxz.com/]tls://223.5.5.5
 [/wszwh.org/]tls://223.5.5.5
 [/wt-px.com/]tls://223.5.5.5
+[/wt168.com/]tls://223.5.5.5
 [/wt8.com/]tls://223.5.5.5
 [/wtaluo.com/]tls://223.5.5.5
 [/wtango.com/]tls://223.5.5.5
@@ -65840,7 +65842,6 @@
 [/zhimaruanjian.com/]tls://223.5.5.5
 [/zhimawenda.com/]tls://223.5.5.5
 [/zhimax.com/]tls://223.5.5.5
-[/zhimengzhe.com/]tls://223.5.5.5
 [/zhimg.com/]tls://223.5.5.5
 [/zhimi.com/]tls://223.5.5.5
 [/zhimoe.com/]tls://223.5.5.5
@@ -66991,7 +66992,6 @@
 [/zooyoo.cc/]tls://223.5.5.5
 [/zoroli.com/]tls://223.5.5.5
 [/zorrowh.com/]tls://223.5.5.5
-[/zotanwa.com/]tls://223.5.5.5
 [/zou.la/]tls://223.5.5.5
 [/zou114.com/]tls://223.5.5.5
 [/zou114.net/]tls://223.5.5.5
