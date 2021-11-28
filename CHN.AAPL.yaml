@@ -8,6 +8,7 @@ payload:
   - '+.adcdownload.apple.com'
   - '+.appldnld.apple.com'
   - '+.appldnld.g.aaplimg.com'
+  - '+.appleid.cdn-apple.com'
   - '+.apps.apple.com'
   - '+.apps.mzstatic.com'
   - '+.cdn-cn1.apple-mapkit.com'

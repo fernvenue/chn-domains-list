@@ -7,6 +7,7 @@
 [/adcdownload.apple.com/]tls://223.5.5.5
 [/appldnld.apple.com/]tls://223.5.5.5
 [/appldnld.g.aaplimg.com/]tls://223.5.5.5
+[/appleid.cdn-apple.com/]tls://223.5.5.5
 [/apps.apple.com/]tls://223.5.5.5
 [/apps.mzstatic.com/]tls://223.5.5.5
 [/cdn-cn1.apple-mapkit.com/]tls://223.5.5.5
