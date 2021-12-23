@@ -5468,6 +5468,7 @@
 [/5sai.com/]tls://223.5.5.5
 [/5sdy.cc/]tls://223.5.5.5
 [/5sdy.com/]tls://223.5.5.5
+[/5se34.com/]tls://223.5.5.5
 [/5see.com/]tls://223.5.5.5
 [/5seestar.com/]tls://223.5.5.5
 [/5sem.com/]tls://223.5.5.5
@@ -10561,6 +10562,7 @@
 [/banbaise.com/]tls://223.5.5.5
 [/banbao123.com/]tls://223.5.5.5
 [/banbaowang.com/]tls://223.5.5.5
+[/banbf.com/]tls://223.5.5.5
 [/banciyuan.me/]tls://223.5.5.5
 [/bandaoningmeng.com/]tls://223.5.5.5
 [/bandari.net/]tls://223.5.5.5
@@ -10604,6 +10606,7 @@
 [/bangyike.com/]tls://223.5.5.5
 [/bangzechem.com/]tls://223.5.5.5
 [/bangzhufu.com/]tls://223.5.5.5
+[/banht.com/]tls://223.5.5.5
 [/banjiajia.com/]tls://223.5.5.5
 [/banjiamao.com/]tls://223.5.5.5
 [/banjuanshu.com/]tls://223.5.5.5
@@ -10797,6 +10800,7 @@
 [/basestonedata.com/]tls://223.5.5.5
 [/bashan.com/]tls://223.5.5.5
 [/bashuhuapai.com/]tls://223.5.5.5
+[/bashuku.com/]tls://223.5.5.5
 [/basiccat.org/]tls://223.5.5.5
 [/basicfinder.com/]tls://223.5.5.5
 [/bastengao.com/]tls://223.5.5.5
@@ -11386,6 +11390,7 @@
 [/bianfeng.com/]tls://223.5.5.5
 [/bianhao6.com/]tls://223.5.5.5
 [/bianjibu.net/]tls://223.5.5.5
+[/bianjiqi.net/]tls://223.5.5.5
 [/bianjiyi.com/]tls://223.5.5.5
 [/bianlidianjiameng.net/]tls://223.5.5.5
 [/bianlifeng.com/]tls://223.5.5.5
@@ -12800,6 +12805,7 @@
 [/buybieshu.com/]tls://223.5.5.5
 [/buycarcn.com/]tls://223.5.5.5
 [/buychuan.com/]tls://223.5.5.5
+[/buycoor.com/]tls://223.5.5.5
 [/buyfine.net/]tls://223.5.5.5
 [/buyhot.vip/]tls://223.5.5.5
 [/buyigang.com/]tls://223.5.5.5
@@ -14007,6 +14013,7 @@
 [/ceepsp.com/]tls://223.5.5.5
 [/cef114.com/]tls://223.5.5.5
 [/cefc.co/]tls://223.5.5.5
+[/ceh3.com/]tls://223.5.5.5
 [/cehbe.com/]tls://223.5.5.5
 [/cehbh.com/]tls://223.5.5.5
 [/cehbk.com/]tls://223.5.5.5
@@ -18221,6 +18228,7 @@
 [/d1ye.com/]tls://223.5.5.5
 [/d20.net/]tls://223.5.5.5
 [/d2fan.com/]tls://223.5.5.5
+[/d2fbf.com/]tls://223.5.5.5
 [/d2film.com/]tls://223.5.5.5
 [/d2kdi2ss.com/]tls://223.5.5.5
 [/d2mzb.com/]tls://223.5.5.5
@@ -22899,6 +22907,7 @@
 [/fdzq.com/]tls://223.5.5.5
 [/fe-cable.com/]tls://223.5.5.5
 [/fe2x.cc/]tls://223.5.5.5
+[/fe347.com/]tls://223.5.5.5
 [/fe520.com/]tls://223.5.5.5
 [/fearlazy.com/]tls://223.5.5.5
 [/feaye.com/]tls://223.5.5.5
@@ -27660,6 +27669,7 @@
 [/hebeijd.com/]tls://223.5.5.5
 [/hebeinongzi.com/]tls://223.5.5.5
 [/hebeisy.com/]tls://223.5.5.5
+[/hebeiyichen.com/]tls://223.5.5.5
 [/hebeizhouji.com/]tls://223.5.5.5
 [/hebgtjt.com/]tls://223.5.5.5
 [/hebiw.com/]tls://223.5.5.5
@@ -27718,6 +27728,7 @@
 [/heijiao.net/]tls://223.5.5.5
 [/heijiazi.com/]tls://223.5.5.5
 [/heijin.org/]tls://223.5.5.5
+[/heikexs.com/]tls://223.5.5.5
 [/heilanhome.com/]tls://223.5.5.5
 [/heilaot.com/]tls://223.5.5.5
 [/heilei.com/]tls://223.5.5.5
@@ -29037,6 +29048,7 @@
 [/hs13z.net/]tls://223.5.5.5
 [/hs186.com/]tls://223.5.5.5
 [/hs2005.net/]tls://223.5.5.5
+[/hs313.info/]tls://223.5.5.5
 [/hs65.com/]tls://223.5.5.5
 [/hs950.com/]tls://223.5.5.5
 [/hsakyy.com/]tls://223.5.5.5
@@ -33391,6 +33403,7 @@
 [/jingwei.com/]tls://223.5.5.5
 [/jingwei.link/]tls://223.5.5.5
 [/jingwentian.com/]tls://223.5.5.5
+[/jingwuhotel.com/]tls://223.5.5.5
 [/jingwuhui.com/]tls://223.5.5.5
 [/jingxi.com/]tls://223.5.5.5
 [/jingxialai.com/]tls://223.5.5.5
@@ -33907,6 +33920,7 @@
 [/jmdedu.com/]tls://223.5.5.5
 [/jmdlzx.com/]tls://223.5.5.5
 [/jmeii.com/]tls://223.5.5.5
+[/jmeishe.com/]tls://223.5.5.5
 [/jmf0.com/]tls://223.5.5.5
 [/jmf6.com/]tls://223.5.5.5
 [/jmfans.com/]tls://223.5.5.5
@@ -35007,7 +35021,6 @@
 [/kaesoon.com/]tls://223.5.5.5
 [/kafka.cc/]tls://223.5.5.5
 [/kagirl.net/]tls://223.5.5.5
-[/kahxnsat.com/]tls://223.5.5.5
 [/kai-ying.com/]tls://223.5.5.5
 [/kaiba315.com/]tls://223.5.5.5
 [/kaibo5888.com/]tls://223.5.5.5
@@ -35483,6 +35496,7 @@
 [/kexing100.com/]tls://223.5.5.5
 [/kexinguoji.com/]tls://223.5.5.5
 [/kexinyun.org/]tls://223.5.5.5
+[/kexu.com/]tls://223.5.5.5
 [/kexue.com/]tls://223.5.5.5
 [/kexue.fm/]tls://223.5.5.5
 [/kexuezixunzzs.com/]tls://223.5.5.5
@@ -35806,6 +35820,7 @@
 [/kmlcl.com/]tls://223.5.5.5
 [/kmlhh.com/]tls://223.5.5.5
 [/kmmama.com/]tls://223.5.5.5
+[/kmplayercn.com/]tls://223.5.5.5
 [/kmtarena.net/]tls://223.5.5.5
 [/kmw.com/]tls://223.5.5.5
 [/kmway.com/]tls://223.5.5.5
@@ -36733,6 +36748,7 @@
 [/lanzhouyangsheng.com/]tls://223.5.5.5
 [/lanzhuwh.com/]tls://223.5.5.5
 [/lanzou.com/]tls://223.5.5.5
+[/lanzoug.com/]tls://223.5.5.5
 [/lanzoui.com/]tls://223.5.5.5
 [/lanzoux.com/]tls://223.5.5.5
 [/lanzun.net/]tls://223.5.5.5
@@ -45058,6 +45074,7 @@
 [/potevio.com/]tls://223.5.5.5
 [/potianji.net/]tls://223.5.5.5
 [/potplayer.org/]tls://223.5.5.5
+[/potplayercn.com/]tls://223.5.5.5
 [/pouchcontainer.io/]tls://223.5.5.5
 [/poukao.com/]tls://223.5.5.5
 [/poweizu.com/]tls://223.5.5.5
@@ -46160,7 +46177,6 @@
 [/qingwk.com/]tls://223.5.5.5
 [/qingxiaoyun.com/]tls://223.5.5.5
 [/qingxuetang.com/]tls://223.5.5.5
-[/qingyiapp.com/]tls://223.5.5.5
 [/qingyougames.com/]tls://223.5.5.5
 [/qingyungou.com/]tls://223.5.5.5
 [/qingzhanshi.com/]tls://223.5.5.5
@@ -50522,6 +50538,7 @@
 [/sisijiyi.com/]tls://223.5.5.5
 [/sisijp.com/]tls://223.5.5.5
 [/sisp-china.com/]tls://223.5.5.5
+[/sisuoyun.com/]tls://223.5.5.5
 [/siswin.com/]tls://223.5.5.5
 [/sitcoffee.com/]tls://223.5.5.5
 [/site-digger.com/]tls://223.5.5.5
@@ -51339,6 +51356,7 @@
 [/sowin.com/]tls://223.5.5.5
 [/sowu.com/]tls://223.5.5.5
 [/soxs.cc/]tls://223.5.5.5
+[/soxscc.info/]tls://223.5.5.5
 [/soxsok.com/]tls://223.5.5.5
 [/soxuxu.com/]tls://223.5.5.5
 [/soyao.me/]tls://223.5.5.5
@@ -53764,6 +53782,7 @@
 [/tianzhao.net/]tls://223.5.5.5
 [/tianzhuo.com/]tls://223.5.5.5
 [/tianzikj.com/]tls://223.5.5.5
+[/tianziyu.com/]tls://223.5.5.5
 [/tianzongyouxi.com/]tls://223.5.5.5
 [/tiaodao.com/]tls://223.5.5.5
 [/tiaoguangbolimo.com/]tls://223.5.5.5
@@ -65342,6 +65361,7 @@
 [/z5a.com/]tls://223.5.5.5
 [/z5encrypt.com/]tls://223.5.5.5
 [/z5z4.com/]tls://223.5.5.5
+[/z701.com/]tls://223.5.5.5
 [/z7xz.com/]tls://223.5.5.5
 [/z7ys.com/]tls://223.5.5.5
 [/z8q.cc/]tls://223.5.5.5
@@ -65681,6 +65701,7 @@
 [/zfsoft.com/]tls://223.5.5.5
 [/zft.com/]tls://223.5.5.5
 [/zfvnet.com/]tls://223.5.5.5
+[/zfw.me/]tls://223.5.5.5
 [/zfw.net/]tls://223.5.5.5
 [/zfwimg.com/]tls://223.5.5.5
 [/zfyml.com/]tls://223.5.5.5
