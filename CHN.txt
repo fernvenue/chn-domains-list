@@ -5557,7 +5557,6 @@
 [/6122.net/]tls://223.5.5.5
 [/612345.com/]tls://223.5.5.5
 [/612459.com/]tls://223.5.5.5
-[/6132071.com/]tls://223.5.5.5
 [/6132823.com/]tls://223.5.5.5
 [/6132979.com/]tls://223.5.5.5
 [/6137.net/]tls://223.5.5.5
@@ -8424,7 +8423,6 @@
 [/aidrive.com/]tls://223.5.5.5
 [/aiduoka.com/]tls://223.5.5.5
 [/aiduwenxue.com/]tls://223.5.5.5
-[/aidzs.com/]tls://223.5.5.5
 [/aiec-alliance.com/]tls://223.5.5.5
 [/aiegle.com/]tls://223.5.5.5
 [/aiemy.com/]tls://223.5.5.5
@@ -13225,6 +13223,7 @@
 [/callda.com/]tls://223.5.5.5
 [/callmewhy.com/]tls://223.5.5.5
 [/caloinfo.com/]tls://223.5.5.5
+[/calorietech.com/]tls://223.5.5.5
 [/calt.com/]tls://223.5.5.5
 [/calvinneo.com/]tls://223.5.5.5
 [/cambm.com/]tls://223.5.5.5
@@ -18951,6 +18950,7 @@
 [/dedezhuji.com/]tls://223.5.5.5
 [/deehai.com/]tls://223.5.5.5
 [/deemob.com/]tls://223.5.5.5
+[/deemos.com/]tls://223.5.5.5
 [/deepai.com/]tls://223.5.5.5
 [/deepano.com/]tls://223.5.5.5
 [/deepaso.com/]tls://223.5.5.5
@@ -33017,6 +33017,7 @@
 [/jiatingdog.com/]tls://223.5.5.5
 [/jiatui.com/]tls://223.5.5.5
 [/jiatx.com/]tls://223.5.5.5
+[/jiawentrans.com/]tls://223.5.5.5
 [/jiawin.com/]tls://223.5.5.5
 [/jiaxiaozhijia.com/]tls://223.5.5.5
 [/jiaxichina.net/]tls://223.5.5.5
@@ -40114,6 +40115,7 @@
 [/menle.com/]tls://223.5.5.5
 [/menpiao.com/]tls://223.5.5.5
 [/menqiu.com/]tls://223.5.5.5
+[/menubarx.app/]tls://223.5.5.5
 [/menwee.com/]tls://223.5.5.5
 [/menww.com/]tls://223.5.5.5
 [/menwww.com/]tls://223.5.5.5
@@ -40567,6 +40569,7 @@
 [/minhangshi.com/]tls://223.5.5.5
 [/minhow.com/]tls://223.5.5.5
 [/mini-audio.com/]tls://223.5.5.5
+[/mini-program.net/]tls://223.5.5.5
 [/mini5cn-1.opera-mini.net/]tls://223.5.5.5
 [/mini5cn.opera-mini.net/]tls://223.5.5.5
 [/miniadx.com/]tls://223.5.5.5
@@ -44188,6 +44191,7 @@
 [/pdfdo.com/]tls://223.5.5.5
 [/pdfdowell.com/]tls://223.5.5.5
 [/pdfexpert.cc/]tls://223.5.5.5
+[/pdffsy.com/]tls://223.5.5.5
 [/pdffx.com/]tls://223.5.5.5
 [/pdfjia.com/]tls://223.5.5.5
 [/pdflibr.com/]tls://223.5.5.5
@@ -47945,7 +47949,6 @@
 [/ruvar.com/]tls://223.5.5.5
 [/ruvisas.com/]tls://223.5.5.5
 [/ruwen5.com/]tls://223.5.5.5
-[/ruxianke.com/]tls://223.5.5.5
 [/ruyahui.com/]tls://223.5.5.5
 [/ruyig.com/]tls://223.5.5.5
 [/ruyile.com/]tls://223.5.5.5
@@ -52704,6 +52707,7 @@
 [/talkwithtrend.com/]tls://223.5.5.5
 [/talkyun.com/]tls://223.5.5.5
 [/taluo.com/]tls://223.5.5.5
+[/talyscm.com/]tls://223.5.5.5
 [/talzjsj.com/]tls://223.5.5.5
 [/tamaegis.com/]tls://223.5.5.5
 [/tamc8.com/]tls://223.5.5.5
@@ -54249,6 +54253,7 @@
 [/touchxd.com/]tls://223.5.5.5
 [/touclick.com/]tls://223.5.5.5
 [/touduyu.com/]tls://223.5.5.5
+[/toufu321.com/]tls://223.5.5.5
 [/toughcoder.net/]tls://223.5.5.5
 [/tougub.com/]tls://223.5.5.5
 [/touhou.cd/]tls://223.5.5.5
@@ -65681,6 +65686,7 @@
 [/zgtuku.com/]tls://223.5.5.5
 [/zgtxw.com/]tls://223.5.5.5
 [/zgtygg.com/]tls://223.5.5.5
+[/zgtzhb.com/]tls://223.5.5.5
 [/zgui.com/]tls://223.5.5.5
 [/zguonew.com/]tls://223.5.5.5
 [/zgw.com/]tls://223.5.5.5
