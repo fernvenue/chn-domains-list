@@ -8274,6 +8274,7 @@
 [/ahbys.com/]tls://223.5.5.5
 [/ahbztv.com/]tls://223.5.5.5
 [/ahbzyy.com/]tls://223.5.5.5
+[/ahc.ink/]tls://223.5.5.5
 [/ahcaijing.com/]tls://223.5.5.5
 [/ahcaw.com/]tls://223.5.5.5
 [/ahchanyi.com/]tls://223.5.5.5
@@ -8313,6 +8314,7 @@
 [/ahljnews.com/]tls://223.5.5.5
 [/ahmayun.com/]tls://223.5.5.5
 [/ahmky.com/]tls://223.5.5.5
+[/ahmup.com/]tls://223.5.5.5
 [/ahnews.org/]tls://223.5.5.5
 [/ahougn.com/]tls://223.5.5.5
 [/ahphi.com/]tls://223.5.5.5
@@ -9092,6 +9094,7 @@
 [/amh.sh/]tls://223.5.5.5
 [/amhimalayanet.com/]tls://223.5.5.5
 [/amhl.net/]tls://223.5.5.5
+[/amhnn.com/]tls://223.5.5.5
 [/amicool.net/]tls://223.5.5.5
 [/amif-expo.com/]tls://223.5.5.5
 [/amijiaoyu.com/]tls://223.5.5.5
@@ -11324,6 +11327,7 @@
 [/bguai.com/]tls://223.5.5.5
 [/bgwl.net/]tls://223.5.5.5
 [/bgyfhyx.com/]tls://223.5.5.5
+[/bgyjr.com/]tls://223.5.5.5
 [/bh.sb/]tls://223.5.5.5
 [/bh1t.com/]tls://223.5.5.5
 [/bh3.com/]tls://223.5.5.5
@@ -12633,6 +12637,7 @@
 [/btglotto.com/]tls://223.5.5.5
 [/bthhotels.com/]tls://223.5.5.5
 [/bthlt.com/]tls://223.5.5.5
+[/bthss.com/]tls://223.5.5.5
 [/bthuifu.com/]tls://223.5.5.5
 [/btime.com/]tls://223.5.5.5
 [/btiyu.com/]tls://223.5.5.5
@@ -15551,7 +15556,6 @@
 [/chrice.net/]tls://223.5.5.5
 [/chrieschina.com/]tls://223.5.5.5
 [/chris-tina.com/]tls://223.5.5.5
-[/christianlouboutin-shop.com/]tls://223.5.5.5
 [/chrisyue.com/]tls://223.5.5.5
 [/chrmn.com/]tls://223.5.5.5
 [/chrom-china.com/]tls://223.5.5.5
@@ -18614,7 +18618,6 @@
 [/dassm.com/]tls://223.5.5.5
 [/dasung.com/]tls://223.5.5.5
 [/dasungtech.com/]tls://223.5.5.5
-[/dat8.cc/]tls://223.5.5.5
 [/data380.com/]tls://223.5.5.5
 [/data985.com/]tls://223.5.5.5
 [/datacaciques.com/]tls://223.5.5.5
@@ -20489,6 +20492,7 @@
 [/du8.com/]tls://223.5.5.5
 [/duai.com/]tls://223.5.5.5
 [/dualaid.com/]tls://223.5.5.5
+[/duan.red/]tls://223.5.5.5
 [/duanjn.com/]tls://223.5.5.5
 [/duanjuzi.com/]tls://223.5.5.5
 [/duanlonggang.com/]tls://223.5.5.5
@@ -21248,7 +21252,6 @@
 [/ecitic.com/]tls://223.5.5.5
 [/ecjson.com/]tls://223.5.5.5
 [/ecjtu.net/]tls://223.5.5.5
-[/ecjtu.org/]tls://223.5.5.5
 [/eckjzx.com/]tls://223.5.5.5
 [/ecloud.hk/]tls://223.5.5.5
 [/eclyw.com/]tls://223.5.5.5
@@ -21583,6 +21586,7 @@
 [/eigpay.com/]tls://223.5.5.5
 [/eiicn.com/]tls://223.5.5.5
 [/eiimg.com/]tls://223.5.5.5
+[/eiisys.com/]tls://223.5.5.5
 [/eilieili.cc/]tls://223.5.5.5
 [/eimoney.com/]tls://223.5.5.5
 [/eindex.me/]tls://223.5.5.5
@@ -23166,6 +23170,7 @@
 [/fhoverseas.com/]tls://223.5.5.5
 [/fhrl2018.com/]tls://223.5.5.5
 [/fhrlw.com/]tls://223.5.5.5
+[/fhsas.com/]tls://223.5.5.5
 [/fhtj.com/]tls://223.5.5.5
 [/fhtlw.com/]tls://223.5.5.5
 [/fhtre.com/]tls://223.5.5.5
@@ -30218,6 +30223,7 @@
 [/i3v.cc/]tls://223.5.5.5
 [/i3youlun.com/]tls://223.5.5.5
 [/i3yuan.com/]tls://223.5.5.5
+[/i3zh.com/]tls://223.5.5.5
 [/i4px.com/]tls://223.5.5.5
 [/i4t.com/]tls://223.5.5.5
 [/i51game.com/]tls://223.5.5.5
@@ -30419,6 +30425,7 @@
 [/icefoxgame.com/]tls://223.5.5.5
 [/iceinto.com/]tls://223.5.5.5
 [/icekr.com/]tls://223.5.5.5
+[/icekylin.online/]tls://223.5.5.5
 [/icemle.org/]tls://223.5.5.5
 [/iceshi.org/]tls://223.5.5.5
 [/icesimba.com/]tls://223.5.5.5
@@ -37744,7 +37751,6 @@
 [/linux265.com/]tls://223.5.5.5
 [/linux5.net/]tls://223.5.5.5
 [/linux6.com/]tls://223.5.5.5
-[/linuxacme.icu/]tls://223.5.5.5
 [/linuxba.com/]tls://223.5.5.5
 [/linuxbaike.com/]tls://223.5.5.5
 [/linuxbaodian.com/]tls://223.5.5.5
@@ -40583,6 +40589,7 @@
 [/miniluck.com/]tls://223.5.5.5
 [/miningconf.org/]tls://223.5.5.5
 [/mininglamp.com/]tls://223.5.5.5
+[/miniso.com/]tls://223.5.5.5
 [/minisoyo.com/]tls://223.5.5.5
 [/ministudy.com/]tls://223.5.5.5
 [/minitiao.com/]tls://223.5.5.5
@@ -41280,6 +41287,7 @@
 [/msddp.com/]tls://223.5.5.5
 [/msdelectron.com/]tls://223.5.5.5
 [/msfpay.com/]tls://223.5.5.5
+[/msfxt.com/]tls://223.5.5.5
 [/msgcarry.com/]tls://223.5.5.5
 [/msgr.dlservice.microsoft.com/]tls://223.5.5.5
 [/msgruser.dlservice.microsoft.com/]tls://223.5.5.5
@@ -44307,6 +44315,7 @@
 [/pet86.com/]tls://223.5.5.5
 [/peter-zhou.com/]tls://223.5.5.5
 [/petersonlian.com/]tls://223.5.5.5
+[/petkit.com/]tls://223.5.5.5
 [/petkoo.com/]tls://223.5.5.5
 [/petmrs.com/]tls://223.5.5.5
 [/petnakanojo.com/]tls://223.5.5.5
@@ -46581,7 +46590,6 @@
 [/qtbcw.com/]tls://223.5.5.5
 [/qtbig.com/]tls://223.5.5.5
 [/qtccolor.com/]tls://223.5.5.5
-[/qtch888.com/]tls://223.5.5.5
 [/qtcn.org/]tls://223.5.5.5
 [/qtconcerthall.com/]tls://223.5.5.5
 [/qtdebug.com/]tls://223.5.5.5
@@ -48847,6 +48855,7 @@
 [/seseacg.com/]tls://223.5.5.5
 [/sesier.com/]tls://223.5.5.5
 [/sesliritim.com/]tls://223.5.5.5
+[/sesubox.com/]tls://223.5.5.5
 [/seteuid0.com/]tls://223.5.5.5
 [/seuic.com/]tls://223.5.5.5
 [/sevdot.com/]tls://223.5.5.5
@@ -61725,6 +61734,7 @@
 [/xueshu.com/]tls://223.5.5.5
 [/xueshu5.com/]tls://223.5.5.5
 [/xueshuda.com/]tls://223.5.5.5
+[/xueshujia.com/]tls://223.5.5.5
 [/xuetangonline.com/]tls://223.5.5.5
 [/xuetangx.com/]tls://223.5.5.5
 [/xuetangzaixian.com/]tls://223.5.5.5
@@ -62069,6 +62079,7 @@
 [/xyvending.com/]tls://223.5.5.5
 [/xyw.com/]tls://223.5.5.5
 [/xywallet.com/]tls://223.5.5.5
+[/xywm.ltd/]tls://223.5.5.5
 [/xywooden.com/]tls://223.5.5.5
 [/xywy.com/]tls://223.5.5.5
 [/xywyfw.com/]tls://223.5.5.5
