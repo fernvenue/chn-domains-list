@@ -19,8 +19,8 @@ cp ./accelerated-domains.china.conf ./CHN.conf
 sed -i "s|server=/|DOMAIN-SUFFIX,|g" ./CHN.conf
 sed -i "s|/114.114.114.114||g" ./CHN.conf
 cp ./accelerated-domains.china.conf ./CHN.txt
-sed -i 's|server=||g' ./CHN.txt
-sed -i 's|114.114.114.114||g' ./CHN.txt
+sed -i 's|server=/||g' ./CHN.txt
+sed -i 's|/114.114.114.114||g' ./CHN.txt
 rm ./accelerated-domains.china.conf
 curl 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf' -o './apple.china.conf'
 sed -i 's/[[:space:]]//g' './apple.china.conf'
@@ -32,8 +32,8 @@ cp ./apple.china.conf ./CHN.AAPL.conf
 sed -i "s|server=/|DOMAIN-SUFFIX,|g" ./CHN.AAPL.conf
 sed -i "s|/114.114.114.114||g" ./CHN.AAPL.conf
 cp ./apple.china.conf ./CHN.AAPL.txt
-sed -i 's|server=||g' ./CHN.AAPL.txt
-sed -i 's|114.114.114.114||g' ./CHN.AAPL.txt
+sed -i 's|server=/||g' ./CHN.AAPL.txt
+sed -i 's|/114.114.114.114||g' ./CHN.AAPL.txt
 rm ./apple.china.conf
 git init
 git add .
