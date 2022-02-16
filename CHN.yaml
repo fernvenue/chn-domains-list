@@ -25027,7 +25027,6 @@ payload:
   - '+.globalmil.com'
   - '+.globalpingbao.com'
   - '+.globalscanner.com'
-#  - '+.globalsign.com'#Disabled:veryunstable
   - '+.globalslb.net'
   - '+.globalsources.com'
   - '+.globalstech.com'
@@ -57059,7 +57058,6 @@ payload:
   - '+.webmagic.io'
   - '+.webmeng.net'
   - '+.webmulu.com'
-#  - '+.webnovel.com'#Disabled:https://github.com/felixonmars/dnsmasq-china-list/issues/386
   - '+.webok.me'
   - '+.webond.net'
   - '+.weboss.hk'
@@ -59076,7 +59074,6 @@ payload:
   - '+.www.akamai.com'
   - '+.www.amd.com'
   - '+.www.analog.com'
-#  - '+.www.bing.com'#Disabled:https://github.com/felixonmars/dnsmasq-china-list/commit/449e1faf9816226ba30082cdc54061f520f78f81#r31928598
   - '+.www.cc'
   - '+.www.cdnetworks.com'
   - '+.www.cg'
@@ -59090,7 +59087,6 @@ payload:
   - '+.www.htc.com'
   - '+.www.htcsense.com'
   - '+.www.kaspersky.com'
-#  - '+.www.linkedin.com'#Disabled:https://github.com/felixonmars/dnsmasq-china-list/issues/335
   - '+.www.microsoft.com'
   - '+.www.nike.com'
   - '+.www.pandora.net'
@@ -67137,7 +67133,6 @@ payload:
   - '+.zookingsoft.com'
   - '+.zookparts.com'
   - '+.zoom-china.com'
-#  - '+.zoom.us'#Disabled:https://github.com/felixonmars/dnsmasq-china-list/issues/29
   - '+.zoomeye.org'
   - '+.zoomlion.com'
   - '+.zoopda.com'
