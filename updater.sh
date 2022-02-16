@@ -9,6 +9,7 @@ git config --global user.name "fernvenue"
 git clone git@gitlab.com:fernvenue/chn-domains-list.git
 cd "./chn-domains-list"
 curl "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf" -o "./accelerated-domains.china.conf"
+sed -i "/^#/d" "./accelerated-domains.china.conf"
 sed -i "s/[[:space:]]//g" "./accelerated-domains.china.conf"
 cp ./accelerated-domains.china.conf ./CHN.txt
 sed -i "s|server=/||g" ./CHN.txt
@@ -22,6 +23,7 @@ sed -i "s|/114.114.114.114|'|g" ./CHN.yaml
 sed -i "1s|^|payload:\n|" ./CHN.yaml
 rm ./accelerated-domains.china.conf
 curl "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf" -o "./apple.china.conf"
+sed -i "/^#/d" "./apple.china.conf"
 sed -i "s/[[:space:]]//g" "./apple.china.conf"
 cp ./apple.china.conf ./CHN.AAPL.txt
 sed -i "s|server=/||g" ./CHN.AAPL.txt
@@ -35,6 +37,7 @@ sed -i "s|/114.114.114.114|'|g" ./CHN.AAPL.yaml
 sed -i "1s|^|payload:\n|" ./CHN.AAPL.yaml
 rm ./apple.china.conf
 curl "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf" -o "./google.china.conf"
+sed -i "/^#/d" "./google.china.conf"
 sed -i "s/[[:space:]]//g" "./google.china.conf"
 cp ./google.china.conf ./CHN.GOOG.txt
 sed -i "s|server=/||g" ./CHN.GOOG.txt
