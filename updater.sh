@@ -21,6 +21,9 @@ cp ./accelerated-domains.china.conf ./CHN.yaml
 sed -i "s|server=/|  - '+.|g" ./CHN.yaml
 sed -i "s|/114.114.114.114|'|g" ./CHN.yaml
 sed -i "1s|^|payload:\n|" ./CHN.yaml
+cp ./accelerated-domains.china.conf ./CHN.agh
+sed -i "s|server=|[|g" ./CHN.agh
+sed -i "s|114.114.114.114|]tls://223.5.5.5|g" ./CHN.agh
 rm ./accelerated-domains.china.conf
 curl "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf" -o "./apple.china.conf"
 sed -i "/^#/d" "./apple.china.conf"
@@ -35,6 +38,9 @@ cp ./apple.china.conf ./CHN.AAPL.yaml
 sed -i "s|server=/|  - '+.|g" ./CHN.AAPL.yaml
 sed -i "s|/114.114.114.114|'|g" ./CHN.AAPL.yaml
 sed -i "1s|^|payload:\n|" ./CHN.AAPL.yaml
+cp ./apple.china.conf ./CHN.AAPL.agh
+sed -i "s|server=|[|g" ./CHN.AAPL.agh
+sed -i "s|114.114.114.114|]tls://223.5.5.5|g" ./CHN.AAPL.agh
 rm ./apple.china.conf
 curl "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf" -o "./google.china.conf"
 sed -i "/^#/d" "./google.china.conf"
@@ -49,6 +55,9 @@ cp ./google.china.conf ./CHN.GOOG.yaml
 sed -i "s|server=/|  - '+.|g" ./CHN.GOOG.yaml
 sed -i "s|/114.114.114.114|'|g" ./CHN.GOOG.yaml
 sed -i "1s|^|payload:\n|" ./CHN.GOOG.yaml
+cp ./google.china.conf ./CHN.GOOG.agh
+sed -i "s|server=|[|g" ./CHN.GOOG.agh
+sed -i "s|114.114.114.114|]tls://223.5.5.5|g" ./CHN.GOOG.agh
 rm ./google.china.conf
 git init
 git add .
