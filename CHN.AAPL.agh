@@ -117,6 +117,7 @@
 [/updates.cdn-apple.com/]tls://223.5.5.5
 [/valid.apple.com/]tls://223.5.5.5
 [/valid.origin-apple.com.akadns.net/]tls://223.5.5.5
+[/weather-data.apple.com/]tls://223.5.5.5
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://223.5.5.5
 [/www.apple.com.edgekey.net/]tls://223.5.5.5
 [/www.apple.com/]tls://223.5.5.5
