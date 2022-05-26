@@ -22,10 +22,10 @@ sed -i "s|server=/|  - '+.|g" ./CHN*.yaml && sed -i "s|/114.114.114.114|'|g" ./C
 cp ./accelerated-domains.china.conf ./CHN.agh && cp ./apple.china.conf ./CHN.AAPL.agh && cp ./google.china.conf ./CHN.GOOG.agh
 cat ./apple.china.conf ./google.china.conf ./accelerated-domains.china.conf > ./CHN.ALL.agh
 sed -i "s|server=|[|g" ./CHN*.agh && sed -i "s|114.114.114.114|]tls://223.5.5.5|g" ./CHN*.agh
-rm ./accelerated-domains.china.conf ./apple.china.conf ./google.china.conf
 cp ./accelerated-domains.china.conf ./CHN.list && cp ./apple.china.conf ./CHN.AAPL.list && cp ./google.china.conf ./CHN.GOOG.list
 cat ./apple.china.conf ./google.china.conf ./accelerated-domains.china.conf > ./CHN.ALL.list
 sed -i "s|server=/|+.|g" ./CHN*.list && sed -i "s|/114.114.114.114| = server:system|g" ./CHN*.list
+rm ./accelerated-domains.china.conf ./apple.china.conf ./google.china.conf
 git init
 git add .
 updated=`date --rfc-3339 sec`
