@@ -13567,6 +13567,7 @@
 +.centrincloud.com = server:system
 +.centrixlink.com = server:system
 +.century21cn.com = server:system
++.cenvandns.com = server:system
 +.cenwor.com = server:system
 +.cenwoy.com = server:system
 +.cenxilm.com = server:system
@@ -15439,7 +15440,6 @@
 +.ck100.com = server:system
 +.ck180.net = server:system
 +.ckair.com = server:system
-+.ckck.vip = server:system
 +.ckd.cc = server:system
 +.ckd.so = server:system
 +.ckdzb.com = server:system
@@ -15452,7 +15452,6 @@
 +.ckmov.com = server:system
 +.ckook.com = server:system
 +.ckplayer.com = server:system
-+.ckpoo.com = server:system
 +.cksd888.com = server:system
 +.cksic.com = server:system
 +.ckuai.com = server:system
@@ -16543,6 +16542,7 @@
 +.comseoer.com = server:system
 +.comsharp.com = server:system
 +.comsol.com = server:system
++.comweixin.com = server:system
 +.conbagroup.com = server:system
 +.conchdesktop.com = server:system
 +.concox.net = server:system
@@ -17312,7 +17312,6 @@
 +.cuncunle.com = server:system
 +.cuncx.com = server:system
 +.cunfang.com = server:system
-+.cunminyi.com = server:system
 +.cunnar.com = server:system
 +.cunyoulu.com = server:system
 +.cunzj.com = server:system
@@ -24983,6 +24982,7 @@
 +.gtm-a4b9.com = server:system
 +.gtm-a5b4.com = server:system
 +.gtm-i1d6.com = server:system
++.gtm-i1d7.com = server:system
 +.gtm-i1d9.com = server:system
 +.gtmlufax.com = server:system
 +.gtn9.com = server:system
@@ -25762,6 +25762,7 @@
 +.haiboinvest.com = server:system
 +.haiboyi.com = server:system
 +.haicent.com = server:system
++.haichangchina.com = server:system
 +.haichufang.com = server:system
 +.haici.com = server:system
 +.haicj.com = server:system
@@ -28595,7 +28596,6 @@
 +.huihaicn.com = server:system
 +.huihedian.com = server:system
 +.huihua365.com = server:system
-+.huihua8.com = server:system
 +.huihuaren.com = server:system
 +.huihuarensheng.com = server:system
 +.huihuitech.net = server:system
@@ -30435,6 +30435,7 @@
 +.ineice.com = server:system
 +.inengyuan.com = server:system
 +.inesa-it.com = server:system
++.inetech.fun = server:system
 +.inetgoes.com = server:system
 +.inetnoc.com = server:system
 +.inewhope.com = server:system
@@ -31770,6 +31771,7 @@
 +.jhqshfly.com = server:system
 +.jhrcbank.com = server:system
 +.jhsbggw.com = server:system
++.jhscm.com = server:system
 +.jhsctv.com = server:system
 +.jhsdai.com = server:system
 +.jhsfojiao.com = server:system
@@ -36036,6 +36038,7 @@
 +.leozwang.com = server:system
 +.lepaiok.com = server:system
 +.lepaowang.com = server:system
++.lepiaoyun.com = server:system
 +.leqian.com = server:system
 +.lequ.com = server:system
 +.lequ7.com = server:system
@@ -52942,6 +52945,7 @@
 +.trippanda.com = server:system
 +.tripsanxia.net = server:system
 +.tripsmc.com = server:system
++.tripurx.com = server:system
 +.tripvivid.com = server:system
 +.tripwirechina.com = server:system
 +.triring.com = server:system
@@ -53759,6 +53763,8 @@
 +.ucicq.com = server:system
 +.ucjoy.com = server:system
 +.uckendo.com = server:system
++.uclmimg.com = server:system
++.uclmjs.com = server:system
 +.ucloudgda.com = server:system
 +.ucloudnaming.info = server:system
 +.ucly.net = server:system
@@ -57668,7 +57674,6 @@
 +.www.dji.com = server:system
 +.www.djivideos.com = server:system
 +.www.epsonconnect.com = server:system
-+.www.ericsson.com = server:system
 +.www.globalsign.com = server:system
 +.www.gov.mo = server:system
 +.www.htc.com = server:system
@@ -64491,6 +64496,7 @@
 +.zhixingapp.com = server:system
 +.zhixingbus.com = server:system
 +.zhixinlu.com = server:system
++.zhixiu.net = server:system
 +.zhixuan.com = server:system
 +.zhixue.com = server:system
 +.zhixue.org = server:system
@@ -65216,7 +65222,6 @@
 +.zjj21.com = server:system
 +.zjjbtl.com = server:system
 +.zjjd.org = server:system
-+.zjjdamuzhi.com = server:system
 +.zjjgcyz.com = server:system
 +.zjjlvxing.com = server:system
 +.zjjlvyou8264.com = server:system
@@ -65555,6 +65560,7 @@
 +.zoosnet.net = server:system
 +.zoossoft.com = server:system
 +.zoossoft.net = server:system
++.zootope.ink = server:system
 +.zootui.com = server:system
 +.zooyoo.cc = server:system
 +.zoroli.com = server:system
