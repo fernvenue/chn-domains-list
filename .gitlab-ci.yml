@@ -1,0 +1,30 @@
+stages:
+  - update
+
+update:
+  stage: update
+  script:
+    - git clone https://gitlab.com/$GIT_NAME/chn-domains-list.git && cd chn-domains-list && rm CHN*
+    - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.txt
+    - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.AAPL.txt
+    - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.GOOG.txt
+    - cat CHN*.txt > CHN.ALL.txt && sed -i -e "s|server=/||g" -e "s|/114.114.114.114||g" CHN*.txt 
+    - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/list/"`; done
+    - sed -i "s/^/./g" *.list
+    - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/conf/"`; done
+    - sed -i "s/^/DOMAIN-SUFFIX,/g" *.conf
+    - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/yaml/"`; done
+    - sed -i -e "s/^/  - '+./g" -e "s/$/'/g" -e "1s|^|payload:\n|" *.yaml
+    - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/hosts/"`; done
+    - sed -i -e "s/^/+./g" -e "s/$/ = server:system/g" -e "1s|^|[Host]\n|"  *.hosts
+    - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/agh/"`; done
+    - sed -i -e "s/^/[\//g" -e "s/$/\/]114.114.114.114/g" *.agh
+    - sed "/^$/d" CHN*
+    - if test -z `git status -s`; then exit 0; fi
+    - date=`date --rfc-3339 sec`
+    - git config --global user.email $GIT_EMAIL
+    - git config --global user.name $GIT_NAME
+    - git init
+    - git add .
+    - git commit -m "$date"
+    - git push https://gitlab-ci:$GIT_TOKEN@gitlab.com/$GIT_NAME/chn-domains-list.git master
