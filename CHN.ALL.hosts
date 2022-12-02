@@ -98,6 +98,7 @@
 +.ocsp2.apple.com = server:system
 +.oscdn.apple.com = server:system
 +.oscdn.origin-apple.com.akadns.net = server:system
++.osxapps.itunes.g.aaplimg.com = server:system
 +.pancake.apple.com = server:system
 +.pancake.cdn-apple.com.akadns.net = server:system
 +.prod-support.apple-support.akadns.net = server:system
@@ -115,6 +116,7 @@
 +.support-china.apple-support.akadns.net = server:system
 +.support.apple.com = server:system
 +.swallow.apple.com = server:system
++.swallow-apple-com.v.aaplimg.com = server:system
 +.swcatalog-cdn.apple.com.akadns.net = server:system
 +.swcatalog.apple.com = server:system
 +.swcdn.apple.com = server:system
