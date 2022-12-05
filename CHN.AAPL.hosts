@@ -130,6 +130,7 @@
 +.updates.cdn-apple.com = server:system
 +.valid.apple.com = server:system
 +.valid.origin-apple.com.akadns.net = server:system
++.weather-data.apple.com.akadns.net = server:system
 +.weather-data.apple.com = server:system
 +.www.apple.com.edgekey.net.globalredir.akadns.net = server:system
 +.www.apple.com.edgekey.net = server:system

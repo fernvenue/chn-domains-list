@@ -130,6 +130,7 @@ payload:
   - '+.updates.cdn-apple.com'
   - '+.valid.apple.com'
   - '+.valid.origin-apple.com.akadns.net'
+  - '+.weather-data.apple.com.akadns.net'
   - '+.weather-data.apple.com'
   - '+.www.apple.com.edgekey.net.globalredir.akadns.net'
   - '+.www.apple.com.edgekey.net'
