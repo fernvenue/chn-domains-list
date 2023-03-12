@@ -8849,7 +8849,6 @@
 +.aobacore.com = server:system
 +.aobaishi.com = server:system
 +.aobosoft.com = server:system
-+.aoc.com = server:system
 +.aocde.com = server:system
 +.aocdn.com = server:system
 +.aoch.com = server:system
@@ -32537,7 +32536,6 @@
 +.julysong.com = server:system
 +.jumanhua.com = server:system
 +.jumei.com = server:system
-+.jumeiglobal.com = server:system
 +.jumeinet.com = server:system
 +.jumengren.com = server:system
 +.jumi-cdn.com = server:system
@@ -40545,6 +40543,7 @@
 +.ntjoy.com = server:system
 +.ntjrchina.com = server:system
 +.ntjymall.com = server:system
++.ntlcjd.com = server:system
 +.ntneuro.org = server:system
 +.ntp.felixc.at = server:system
 +.ntpcb.com = server:system
@@ -44077,6 +44076,7 @@
 +.qtvcd.com = server:system
 +.qtx.com = server:system
 +.qtyd.com = server:system
++.qtymyy.com = server:system
 +.qu.la = server:system
 +.qu02.com = server:system
 +.qu247.com = server:system
