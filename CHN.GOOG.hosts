@@ -117,8 +117,6 @@
 +.recaptcha.net = server:system
 +.redirector.bdn.dev = server:system
 +.redirector.c.chat.google.com = server:system
-+.redirector.c.docs.google.com = server:system
-+.redirector.c.drive.google.com = server:system
 +.redirector.c.mail.google.com = server:system
 +.redirector.c.pack.google.com = server:system
 +.redirector.c.play.google.com = server:system
