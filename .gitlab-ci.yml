@@ -19,7 +19,7 @@ update:
     - sed -i -e "s/^/+./g" -e "s/$/ = server:system/g" -e "1s|^|[Host]\n|"  *.hosts
     - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/agh/"`; done
     - sed -i -e "s/^/[\//g" -e "s/$/\/]114.114.114.114/g" *.agh
-    - sed "/^$/d" CHN*
+    - sed -i "/^$/d" CHN*
     - if test -z `git status -s`; then exit 0; fi
     - date=`date --rfc-3339 sec`
     - git config --global user.email $GIT_EMAIL
