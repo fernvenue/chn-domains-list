@@ -76,6 +76,7 @@
 +.iosapps.itunes.g.aaplimg.com = server:system
 +.ipcdn.apple.com = server:system
 +.iphone-ld.apple.com = server:system
++.iphone-ld.origin-apple.com.akadns.net = server:system
 +.is1-ssl.mzstatic.com = server:system
 +.is1.mzstatic.com = server:system
 +.is2-ssl.mzstatic.com = server:system
@@ -132,6 +133,8 @@
 +.valid.origin-apple.com.akadns.net = server:system
 +.weather-data.apple.com.akadns.net = server:system
 +.weather-data.apple.com = server:system
++.weather-map.apple.com = server:system
++.weather-map2.apple.com = server:system
 +.www.apple.com.edgekey.net.globalredir.akadns.net = server:system
 +.www.apple.com.edgekey.net = server:system
 +.www.apple.com = server:system
