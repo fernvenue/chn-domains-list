@@ -3880,9 +3880,12 @@
 +.517huwai.com = server:system
 +.517idc.com = server:system
 +.517japan.com = server:system
++.517la.com = server:system
++.517la.net = server:system
 +.517lppz.com = server:system
 +.517ming.com = server:system
 +.517mr.com = server:system
++.517na.com = server:system
 +.517rcw.com = server:system
 +.517sc.com = server:system
 +.517tez.com = server:system
@@ -18917,7 +18920,6 @@
 +.dongqiudi.com = server:system
 +.dongqiudi.net = server:system
 +.dongsenzs.com = server:system
-+.dongshenghuiyang.com = server:system
 +.dongshou.com = server:system
 +.dongsport.com = server:system
 +.dongtaijt.com = server:system
@@ -34656,6 +34658,7 @@
 +.lanrenzhaofang.com = server:system
 +.lanrenzhijia.com = server:system
 +.lanrenzhoumo.com = server:system
++.lansancn.com = server:system
 +.lansedongli.com = server:system
 +.lansha.tv = server:system
 +.lanshanweb.com = server:system
@@ -38767,7 +38770,6 @@
 +.moeli123.com = server:system
 +.moemiao.net = server:system
 +.moeover.com = server:system
-+.moerail.ml = server:system
 +.moerkeji.net = server:system
 +.moerlong.com = server:system
 +.moetu.org = server:system
@@ -39684,7 +39686,6 @@
 +.namisoft.com = server:system
 +.namitiyu.com = server:system
 +.namoc.org = server:system
-+.nanadao.com = server:system
 +.nanapro.org = server:system
 +.nanbeijt.com = server:system
 +.nanbeiyou.com = server:system
@@ -41065,6 +41066,7 @@
 +.onche.net = server:system
 +.oncity.cc = server:system
 +.one-all.com = server:system
++.one-netbook.com = server:system
 +.one918.com = server:system
 +.onealert.com = server:system
 +.oneapm.com = server:system
@@ -41159,6 +41161,7 @@
 +.oomake.com = server:system
 +.ooniu.com = server:system
 +.ooogo.com = server:system
++.ooooai.com = server:system
 +.ooopic.com = server:system
 +.ooopn.com = server:system
 +.ooppoo.com = server:system
@@ -49177,7 +49180,6 @@
 +.sun0769.com = server:system
 +.sun0769ns.com = server:system
 +.sun0816.com = server:system
-+.sun19.com = server:system
 +.sun66.net = server:system
 +.sunacctg.com = server:system
 +.sunater.com = server:system
@@ -52713,6 +52715,7 @@
 +.umaman.com = server:system
 +.umbpay.com = server:system
 +.umcloud.com = server:system
++.umdac.com = server:system
 +.umeng.co = server:system
 +.umeng.com = server:system
 +.umeng.online = server:system
