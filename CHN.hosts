@@ -7314,6 +7314,7 @@
 +.adxvip.com = server:system
 +.adxwork.com = server:system
 +.adyounger.com = server:system
++.adysimg.com = server:system
 +.adyun.com = server:system
 +.adzar-energy.com = server:system
 +.adzh.com = server:system
@@ -8802,7 +8803,6 @@
 +.arkread.com = server:system
 +.arkteam.net = server:system
 +.arliki.com = server:system
-+.arm001.com = server:system
 +.arm9.net = server:system
 +.arm9home.net = server:system
 +.armbbs.net = server:system
@@ -17741,7 +17741,6 @@
 +.dgwtrl.com = server:system
 +.dgxbjg.com = server:system
 +.dgxinde.net = server:system
-+.dgxinyuds.com = server:system
 +.dgxue.com = server:system
 +.dgyejia.com = server:system
 +.dgygpx.com = server:system
@@ -26133,7 +26132,6 @@
 +.hijoys.com = server:system
 +.hikailink.com = server:system
 +.hikcreate.com = server:system
-+.hikedj.com = server:system
 +.hiklife.com = server:system
 +.hikoon.com = server:system
 +.hikops.com = server:system
@@ -48372,6 +48370,7 @@
 +.ssdata.com = server:system
 +.ssdax.com = server:system
 +.ssdfans.com = server:system
++.ssdzg.com = server:system
 +.sseinfo.com = server:system
 +.ssf.cc = server:system
 +.ssfiction.com = server:system
@@ -56810,6 +56809,7 @@
 +.xiaohulu.com = server:system
 +.xiaohuochai.cc = server:system
 +.xiaohuochai.site = server:system
++.xiaohus.com = server:system
 +.xiaohuwl.com = server:system
 +.xiaoice.com = server:system
 +.xiaoj.com = server:system
@@ -58730,7 +58730,6 @@
 +.yanglong.pro = server:system
 +.yangluojob.com = server:system
 +.yangmao.info = server:system
-+.yangmaodang.org = server:system
 +.yangmaohao.net = server:system
 +.yangner.com = server:system
 +.yangqianguan.com = server:system
