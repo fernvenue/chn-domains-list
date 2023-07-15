@@ -6107,7 +6107,6 @@
 +.8tupian.com = server:system
 +.8twan.com = server:system
 +.8u58.com = server:system
-+.8uka.com = server:system
 +.8uyx.com = server:system
 +.8wan.com = server:system
 +.8win.net = server:system
@@ -8475,6 +8474,7 @@
 +.aocde.com = server:system
 +.aocdn.com = server:system
 +.aoch.com = server:system
++.aochengcdn.com = server:system
 +.aoclia.com = server:system
 +.aocslb.com = server:system
 +.aodabo.tech = server:system
@@ -41178,7 +41178,6 @@
 +.panasonicmall.com = server:system
 +.panchuang.net = server:system
 +.panda-home.com = server:system
-+.panda321.com = server:system
 +.panda98.com = server:system
 +.pandadastudio.com = server:system
 +.pandafoundation.org = server:system
@@ -60723,6 +60722,7 @@
 +.yuebei.vip = server:system
 +.yuebingcheng.com = server:system
 +.yuebooemt.com = server:system
++.yuecdn.net = server:system
 +.yuecheng.com = server:system
 +.yuedaoec.com = server:system
 +.yuedisk.com = server:system
@@ -60763,6 +60763,7 @@
 +.yuesuoping.com = server:system
 +.yuetu.tech = server:system
 +.yuetutu.com = server:system
++.yuetuvip.com = server:system
 +.yuetuvip.net = server:system
 +.yuetx.cc = server:system
 +.yueweimusic.com = server:system
@@ -61174,7 +61175,6 @@
 +.yuzhulin.com = server:system
 +.yuzi.net = server:system
 +.yuzvf.com = server:system
-+.yveqi.com = server:system
 +.yvv.in = server:system
 +.yvzfgigpiwmofux.com = server:system
 +.yw11.com = server:system
