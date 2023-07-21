@@ -913,7 +913,6 @@
 +.0x6.me = server:system
 +.0x7.me = server:system
 +.0x9.me = server:system
-+.0x91.com = server:system
 +.0xaa55.com = server:system
 +.0xff000000.com = server:system
 +.0xffffff.org = server:system
@@ -1001,7 +1000,6 @@
 +.100msh.net = server:system
 +.100niangudu.com = server:system
 +.100njz.com = server:system
-+.100nkrc.com = server:system
 +.100nong.com = server:system
 +.100pd.com = server:system
 +.100ppi.com = server:system
@@ -1014,7 +1012,6 @@
 +.100t.com = server:system
 +.100tal.com = server:system
 +.100tmt.com = server:system
-+.100toutiao.com = server:system
 +.100try.com = server:system
 +.100txy.com = server:system
 +.100ulife.com = server:system
@@ -1871,7 +1868,6 @@
 +.17ziti.com = server:system
 +.17zixue.com = server:system
 +.17zjh.com = server:system
-+.17zlsm.com = server:system
 +.17zub.com = server:system
 +.17zuoye.com = server:system
 +.17zuoye.net = server:system
@@ -4191,7 +4187,6 @@
 +.51pinwei.com = server:system
 +.51pjys.com = server:system
 +.51pla.com = server:system
-+.51plain.com = server:system
 +.51pocket.com = server:system
 +.51pocket.net = server:system
 +.51pos.com = server:system
@@ -4647,7 +4642,6 @@
 +.52xitong.com = server:system
 +.52xiuxian.com = server:system
 +.52xiyou.com = server:system
-+.52xp.net = server:system
 +.52xyz.com = server:system
 +.52yawa.com = server:system
 +.52yh.com = server:system
@@ -4721,7 +4715,6 @@
 +.5490196.cc = server:system
 +.5499.com = server:system
 +.54benniao.com = server:system
-+.54bt.com = server:system
 +.54doctor.net = server:system
 +.54doctors.net = server:system
 +.54hcz.com = server:system
@@ -4968,7 +4961,6 @@
 +.58yiji.com = server:system
 +.58youtui.com = server:system
 +.58yuanlin.com = server:system
-+.58yuefu.com = server:system
 +.58yuesao.com = server:system
 +.58zhuiju.com = server:system
 +.59.com = server:system
@@ -5544,7 +5536,6 @@
 +.6bdns.com = server:system
 +.6c6c.com = server:system
 +.6cang.com = server:system
-+.6ccn.com = server:system
 +.6cit.com = server:system
 +.6cnzz.com = server:system
 +.6d4d5.com = server:system
@@ -5984,6 +5975,7 @@
 +.7su.com = server:system
 +.7t9.com = server:system
 +.7tapp.com = server:system
++.7tenet.net = server:system
 +.7tgame.com = server:system
 +.7tou.com = server:system
 +.7tt3333.com = server:system
@@ -6008,7 +6000,6 @@
 +.7y5.net = server:system
 +.7yc.com = server:system
 +.7youxi.com = server:system
-+.7yue.pro = server:system
 +.7yueji.com = server:system
 +.7yun.com = server:system
 +.7yz.com = server:system
@@ -6089,7 +6080,6 @@
 +.80xs.la = server:system
 +.80ym.com = server:system
 +.80zhan.com = server:system
-+.8104510.com = server:system
 +.810840.com = server:system
 +.810book.com = server:system
 +.812361.com = server:system
@@ -6832,7 +6822,6 @@
 +.93zw.com = server:system
 +.940177.com = server:system
 +.941.so = server:system
-+.941mg.com = server:system
 +.942ss.com = server:system
 +.944.com = server:system
 +.94445.com = server:system
@@ -7180,7 +7169,6 @@
 +.9air.com = server:system
 +.9aoduo.com = server:system
 +.9aola.com = server:system
-+.9av5m.com = server:system
 +.9beike.com = server:system
 +.9bianli.com = server:system
 +.9cb.com = server:system
@@ -7560,7 +7548,6 @@
 +.adapay.tech = server:system
 +.adarrive.com = server:system
 +.adaxin.com = server:system
-+.adbats.com = server:system
 +.adbkwai.com = server:system
 +.adbxb.com = server:system
 +.adc-expo.com = server:system
@@ -9373,7 +9360,6 @@
 +.atianqi.com = server:system
 +.atido.com = server:system
 +.ating.info = server:system
-+.atjiang.com = server:system
 +.atmbox.com = server:system
 +.atmlimited.com = server:system
 +.atmob.com = server:system
@@ -9516,7 +9502,6 @@
 +.avtt830.com = server:system
 +.aw-ol.com = server:system
 +.aw.cc = server:system
-+.aw99.com = server:system
 +.awaimai.com = server:system
 +.awaker.net = server:system
 +.awaliwa.com = server:system
@@ -10540,7 +10525,6 @@
 +.benber-tech.com = server:system
 +.benber.com = server:system
 +.benbun.com = server:system
-+.benchami.com = server:system
 +.bendi5.com = server:system
 +.bendibao.com = server:system
 +.bendiso.com = server:system
@@ -10689,8 +10673,6 @@
 +.bfyx.com = server:system
 +.bfyx.net = server:system
 +.bg-cs.com = server:system
-+.bg.v4.a.dl.ws.microsoft.com = server:system
-+.bg4.v4.a.dl.ws.microsoft.com = server:system
 +.bgbk.org = server:system
 +.bgctv.com = server:system
 +.bgdeco.com = server:system
@@ -10855,7 +10837,6 @@
 +.biguo100.com = server:system
 +.biguolunwen.com = server:system
 +.bigwayseo.com = server:system
-+.bigweekendcalendar.com = server:system
 +.bigwinepot.com = server:system
 +.bigwww.com = server:system
 +.bigxiao.com = server:system
@@ -11819,7 +11800,6 @@
 +.bozhihua.com = server:system
 +.bozhong.com = server:system
 +.bpfqmg7.xyz = server:system
-+.bphetaomiao.com = server:system
 +.bpimg.com = server:system
 +.bppan.com = server:system
 +.bpqwxsh.com = server:system
@@ -11841,7 +11821,6 @@
 +.bqrdh.com = server:system
 +.bqteng.com = server:system
 +.bragood.com = server:system
-+.braincf.com = server:system
 +.brand4x4.com = server:system
 +.brandcn.com = server:system
 +.brandpano.com = server:system
@@ -11996,7 +11975,6 @@
 +.budaism.com = server:system
 +.budao.com = server:system
 +.budao24.com = server:system
-+.buddhalikedoge.com = server:system
 +.budhano.com = server:system
 +.buding.tv = server:system
 +.budingmore.com = server:system
@@ -12459,7 +12437,6 @@
 +.cainiaobaoka.com = server:system
 +.cainiaojc.com = server:system
 +.cainiaojiaocheng.com = server:system
-+.cainiaoqidian.com = server:system
 +.cainiaoxueyuan.com = server:system
 +.cainongnet.com = server:system
 +.caipiaogu.com = server:system
@@ -14631,7 +14608,6 @@
 +.chishoes.com = server:system
 +.chitanda.me = server:system
 +.chitu.com = server:system
-+.chitu107.com = server:system
 +.chitus.com = server:system
 +.chivast.com = server:system
 +.chivox.com = server:system
@@ -16435,7 +16411,6 @@
 +.cqgz.com = server:system
 +.cqh2o.com = server:system
 +.cqhansa.com = server:system
-+.cqhaotang.com = server:system
 +.cqhcbk.com = server:system
 +.cqhimalayanky.com = server:system
 +.cqhkcdns.com = server:system
@@ -17056,7 +17031,6 @@
 +.cy-isp.net = server:system
 +.cy-jm.com = server:system
 +.cy.com = server:system
-+.cy1990.com = server:system
 +.cy2009.com = server:system
 +.cy52.com = server:system
 +.cy580.com = server:system
@@ -17066,7 +17040,6 @@
 +.cyanhillcapital.com = server:system
 +.cyb-bot.com = server:system
 +.cyb-cie.com = server:system
-+.cyb520.com = server:system
 +.cyb800.com = server:system
 +.cyberfunn.xyz = server:system
 +.cyberway-china.net = server:system
@@ -17114,6 +17087,7 @@
 +.cypresstel.com = server:system
 +.cyprestar.com = server:system
 +.cyqyzx.com = server:system
++.cyr168.com = server:system
 +.cyruc.com = server:system
 +.cysq.com = server:system
 +.cyss19.com = server:system
@@ -17673,7 +17647,6 @@
 +.davtd.com = server:system
 +.davvar.com = server:system
 +.dawaner.net = server:system
-+.daweibro.com = server:system
 +.daweisoft.com = server:system
 +.dawenming.com = server:system
 +.dawenxue.net = server:system
@@ -17862,7 +17835,6 @@
 +.ddlequ.com = server:system
 +.ddmap.com = server:system
 +.ddmer.com = server:system
-+.ddmini.com = server:system
 +.ddnddn.com = server:system
 +.ddns-only.xyz = server:system
 +.ddnsto.com = server:system
@@ -18034,6 +18006,7 @@
 +.dengwz.com = server:system
 +.dengxiaolong.com = server:system
 +.dengxiaopingnet.com = server:system
++.denopark.com = server:system
 +.dentistshow.com = server:system
 +.deosin.com = server:system
 +.dep-star.com = server:system
@@ -18990,7 +18963,6 @@
 +.dongbucaijing.com = server:system
 +.dongcai.net = server:system
 +.dongcaibaoxian.com = server:system
-+.dongchaba.com = server:system
 +.dongchedi.com = server:system
 +.dongcheng1.com = server:system
 +.dongcheng100.com = server:system
@@ -20612,7 +20584,6 @@
 +.embsky.com = server:system
 +.emcbj.com = server:system
 +.emcsosin.com = server:system
-+.emdl.ws.microsoft.com = server:system
 +.emea.cdnetworks.com = server:system
 +.emeixs.com = server:system
 +.emen.ltd = server:system
@@ -20683,7 +20654,6 @@
 +.enjoymeet.com = server:system
 +.enjoyyue.com = server:system
 +.enjoyz.com = server:system
-+.enkeco.com = server:system
 +.enkichen.com = server:system
 +.enkiorder.com = server:system
 +.enkj.com = server:system
@@ -21469,7 +21439,6 @@
 +.fanli001.net = server:system
 +.fanlibei.com = server:system
 +.fanlicome.com = server:system
-+.fanligame.com = server:system
 +.fanlihe.com = server:system
 +.fanlijinfu.com = server:system
 +.fanlisaas.com = server:system
@@ -22020,6 +21989,7 @@
 +.fidding.me = server:system
 +.fiehff.com = server:system
 +.fieldschina.com = server:system
++.fifo.cc = server:system
 +.fifsky.com = server:system
 +.figoc.pw = server:system
 +.fiinote.com = server:system
@@ -22957,7 +22927,6 @@
 +.g80mx.com = server:system
 +.g88885555.com = server:system
 +.g88886666.com = server:system
-+.g8f8.com = server:system
 +.g931.com = server:system
 +.ga001.com = server:system
 +.ga002.com = server:system
@@ -23203,6 +23172,7 @@
 +.gaotu006.club = server:system
 +.gaotu100.com = server:system
 +.gaotuxueyuan.com = server:system
++.gaowoip.com = server:system
 +.gaoxiaobang.com = server:system
 +.gaoxiaojob.com = server:system
 +.gaoxin123.com = server:system
@@ -23875,7 +23845,6 @@
 +.glxlawyer.com = server:system
 +.glzip.com = server:system
 +.glzj88.com = server:system
-+.glzy8.com = server:system
 +.gm193.com = server:system
 +.gm2007.com = server:system
 +.gm825.com = server:system
@@ -24772,7 +24741,6 @@
 +.guyuenglish.com = server:system
 +.guyungame.com = server:system
 +.guyut.com = server:system
-+.guzalim.com = server:system
 +.guzaosf.com = server:system
 +.guzhangting.com = server:system
 +.guzhifengds.com = server:system
@@ -25131,7 +25099,6 @@
 +.h3wog.com = server:system
 +.h3yun.com = server:system
 +.h4.cc = server:system
-+.h41s.com = server:system
 +.h4532.com = server:system
 +.h4kdxs.com = server:system
 +.h5-share.com = server:system
@@ -25770,6 +25737,7 @@
 +.happylivelife.com = server:system
 +.happymath2009.org = server:system
 +.happymmall.com = server:system
++.happynic.com = server:system
 +.happypingpang.com = server:system
 +.happyplaygame.net = server:system
 +.happyroll.net = server:system
@@ -29401,7 +29369,6 @@
 +.ihaier.com = server:system
 +.ihaima.com = server:system
 +.ihaiu.com = server:system
-+.ihalf.co = server:system
 +.ihanbridge.com = server:system
 +.ihang360.com = server:system
 +.ihanghai.com = server:system
@@ -29605,7 +29572,6 @@
 +.ilifesmart.com = server:system
 +.ilinekesy.com = server:system
 +.ilingdai.com = server:system
-+.ilinkee.com = server:system
 +.ilinki.net = server:system
 +.ilinkone.com = server:system
 +.ilinux.xyz = server:system
@@ -29633,7 +29599,6 @@
 +.ilovezuan.com = server:system
 +.ilsungf.com = server:system
 +.ilufan.com = server:system
-+.iluoy.com = server:system
 +.iluoyang.com = server:system
 +.iluqi.com = server:system
 +.ilustrepro.com = server:system
@@ -30203,7 +30168,6 @@
 +.iqinbao.com = server:system
 +.iqing.com = server:system
 +.iqingdao.com = server:system
-+.iqingren.com = server:system
 +.iqingua.com = server:system
 +.iqishu.la = server:system
 +.iqiwx.com = server:system
@@ -30441,7 +30405,6 @@
 +.itek-training.com = server:system
 +.itelly.net = server:system
 +.itellyou.com = server:system
-+.itemj.com = server:system
 +.itensoft.com = server:system
 +.iter168.com = server:system
 +.itest.info = server:system
@@ -30671,7 +30634,6 @@
 +.iwyvi.com = server:system
 +.iwzwy.com = server:system
 +.ixbren.net = server:system
-+.ixcv.com = server:system
 +.ixdc.org = server:system
 +.ixfc.net = server:system
 +.ixiangyu.com = server:system
@@ -31499,7 +31461,6 @@
 +.jiecao.com = server:system
 +.jiedaibao.com = server:system
 +.jiediankeji.com = server:system
-+.jieennet.com = server:system
 +.jiefadg.com = server:system
 +.jiefuku.com = server:system
 +.jiegames.com = server:system
@@ -31808,7 +31769,6 @@
 +.jinmuinfo.com = server:system
 +.jinnianduoda.com = server:system
 +.jinnong.cc = server:system
-+.jinpengeye.com = server:system
 +.jinphui.com = server:system
 +.jinqiexia.com = server:system
 +.jinqunla.com = server:system
@@ -32458,6 +32418,7 @@
 +.jpwind.com = server:system
 +.jpwindow.com = server:system
 +.jpwxapp.com = server:system
++.jpxue.com = server:system
 +.jpxzm.com = server:system
 +.jpyoo.com = server:system
 +.jpyssc.com = server:system
@@ -33397,13 +33358,13 @@
 +.kanman.com = server:system
 +.kanmeinv.com = server:system
 +.kannb.com = server:system
++.kanpula.com = server:system
 +.kanqibao.com = server:system
 +.kanqiye.com = server:system
 +.kanqq.com = server:system
 +.kanqu.com = server:system
 +.kansdk.com = server:system
 +.kansea.com = server:system
-+.kanshaa.com = server:system
 +.kanshangji.com = server:system
 +.kanshangjie.com = server:system
 +.kanshu.com = server:system
@@ -33472,7 +33433,6 @@
 +.kaoyanzhijia.org = server:system
 +.kaoyaya.com = server:system
 +.kaozhiye.com = server:system
-+.kapai8.com = server:system
 +.kaquanbao.com = server:system
 +.kargocard.com = server:system
 +.karlzhou.com = server:system
@@ -33860,7 +33820,6 @@
 +.kiwa-tech.com = server:system
 +.kiwenlau.com = server:system
 +.kiwisec.com = server:system
-+.kj-hospital.com = server:system
 +.kj-pcb.com = server:system
 +.kj1d.com = server:system
 +.kj3.com = server:system
@@ -34457,7 +34416,6 @@
 +.kukulv.com = server:system
 +.kukumai.com = server:system
 +.kukupig.com = server:system
-+.kukushouyou.com = server:system
 +.kukushow.com = server:system
 +.kukuspeak.com = server:system
 +.kukuw.com = server:system
@@ -34569,7 +34527,6 @@
 +.kvhdd.com = server:system
 +.kvhee.com = server:system
 +.kvhmm.com = server:system
-+.kvhnn.com = server:system
 +.kviso.com = server:system
 +.kvkaa.com = server:system
 +.kvmaa.com = server:system
@@ -34619,7 +34576,6 @@
 +.kxtseal.net = server:system
 +.kxtui.com = server:system
 +.kxtwz.com = server:system
-+.kxvuv.com = server:system
 +.kxx2.com = server:system
 +.kxxsc.com = server:system
 +.kxxxl.com = server:system
@@ -36191,7 +36147,6 @@
 +.liunian.info = server:system
 +.liunianbanxia.com = server:system
 +.liushidong.com = server:system
-+.liushuba.com = server:system
 +.liusuping.com = server:system
 +.liut.xyz = server:system
 +.liuts.com = server:system
@@ -36725,7 +36680,6 @@
 +.lovev.com = server:system
 +.lovewith.me = server:system
 +.lovewj.info = server:system
-+.lovezhangjunning.com = server:system
 +.lovezhuoyou.com = server:system
 +.lovfp.com = server:system
 +.lovgiin.com = server:system
@@ -36954,7 +36908,6 @@
 +.lunzima.net = server:system
 +.luobo020.com = server:system
 +.luobo360.com = server:system
-+.luobocai.com = server:system
 +.luobotou.org = server:system
 +.luobowin8.com = server:system
 +.luoboxia.com = server:system
@@ -38781,7 +38734,6 @@
 +.mixunds.com = server:system
 +.mixvvideo.com = server:system
 +.mixwing.com = server:system
-+.miy.cc = server:system
 +.miyabaobei.com = server:system
 +.miyaboke.com = server:system
 +.miyachat.com = server:system
@@ -39137,7 +39089,6 @@
 +.momoapk.com = server:system
 +.momobako.com = server:system
 +.momocdn.com = server:system
-+.momoe.ml = server:system
 +.momooyo.com = server:system
 +.momoshifu.com = server:system
 +.momotn.com = server:system
@@ -40255,7 +40206,6 @@
 +.netspreading.com = server:system
 +.netstatic.net = server:system
 +.netsun.com = server:system
-+.nettsz.com = server:system
 +.nettvl.net = server:system
 +.networkbench.com = server:system
 +.networkbrand.com = server:system
@@ -40660,7 +40610,6 @@
 +.njycwy.com = server:system
 +.njyingtaoya.com = server:system
 +.njyydl.com = server:system
-+.njzb.net = server:system
 +.njzdsp.com = server:system
 +.njzhzx.net = server:system
 +.njzztyl.com = server:system
@@ -41175,7 +41124,6 @@
 +.oeob.net = server:system
 +.oesell.com = server:system
 +.oetsi.com = server:system
-+.of.work = server:system
 +.ofcard.com = server:system
 +.ofenka.com = server:system
 +.offcn.com = server:system
@@ -41379,7 +41327,6 @@
 +.onekeyghost.com = server:system
 +.onemob.mobi = server:system
 +.onemovie.com = server:system
-+.onemsdn.com = server:system
 +.oneniceapp.com = server:system
 +.onenoter.com = server:system
 +.onephper.com = server:system
@@ -41468,7 +41415,6 @@
 +.opahnet.com = server:system
 +.opark.com = server:system
 +.opatseg.com = server:system
-+.opcns.net = server:system
 +.opcool.com = server:system
 +.opd2c.com = server:system
 +.opdown.com = server:system
@@ -41672,7 +41618,6 @@
 +.oubk.com = server:system
 +.ouchgzee.com = server:system
 +.oudapay.com = server:system
-+.oudeqi.com = server:system
 +.oudiscover.com = server:system
 +.oueia.xyz = server:system
 +.oufa-travel.com = server:system
@@ -42182,6 +42127,7 @@
 +.pdd.net = server:system
 +.pddcdn.com = server:system
 +.pddeu.com = server:system
++.pddim.com = server:system
 +.pddjw.com = server:system
 +.pddpic.com = server:system
 +.pddugc.com = server:system
@@ -43114,7 +43060,6 @@
 +.psd8.com = server:system
 +.psdiv.com = server:system
 +.pse-meti.com = server:system
-+.psgui.com = server:system
 +.pshsoutlet.com = server:system
 +.psing.tech = server:system
 +.psjxty.com = server:system
@@ -43244,7 +43189,6 @@
 +.pvc123.com = server:system
 +.pvcpanel-mzq.com = server:system
 +.pvkj.com = server:system
-+.pvmama.com = server:system
 +.pvpin.com = server:system
 +.pw1999.com = server:system
 +.pw88.com = server:system
@@ -43988,7 +43932,6 @@
 +.qingtengzhilian.com = server:system
 +.qingtian16265.com = server:system
 +.qingtiancms.net = server:system
-+.qingtin.com = server:system
 +.qingting.fm = server:system
 +.qingting123.com = server:system
 +.qingtingfm.com = server:system
@@ -44283,7 +44226,6 @@
 +.qnvod.net = server:system
 +.qnydns.com = server:system
 +.qnydns.net = server:system
-+.qodro.com = server:system
 +.qolai.com = server:system
 +.qooboo.com = server:system
 +.qoocc.com = server:system
@@ -45293,7 +45235,6 @@
 +.resuly.me = server:system
 +.retailo2o.com = server:system
 +.retalltech.com = server:system
-+.retey.net = server:system
 +.retiehe.com = server:system
 +.retouchpics.com = server:system
 +.return.net = server:system
@@ -45556,7 +45497,6 @@
 +.rongyao666.com = server:system
 +.rongyi.com = server:system
 +.rongyiju.com = server:system
-+.rongyitou.com = server:system
 +.rongyizhaofang.com = server:system
 +.rongzhitong.com = server:system
 +.rongzhongleasing.com = server:system
@@ -47022,7 +46962,6 @@
 +.shaoqun.com = server:system
 +.shaoshilei.com = server:system
 +.shaoyee.com = server:system
-+.shaozi.info = server:system
 +.shaphc.org = server:system
 +.shaqing.com = server:system
 +.shaqm.com = server:system
@@ -48200,7 +48139,6 @@
 +.sipeed.com = server:system
 +.sipgl-lcl.com = server:system
 +.siphrd.com = server:system
-+.sipo-hb.com = server:system
 +.sipo-sc.com = server:system
 +.siposchina.com = server:system
 +.siqiquan.org = server:system
@@ -48228,7 +48166,6 @@
 +.sitongzixun.com = server:system
 +.sitrigroup.com = server:system
 +.situdata.com = server:system
-+.sitylife.com = server:system
 +.sivan.in = server:system
 +.sivps.com = server:system
 +.siwaman.com = server:system
@@ -48861,11 +48798,9 @@
 +.sooyooj.com = server:system
 +.sooyuu.com = server:system
 +.soozhu.com = server:system
-+.sopandas.com = server:system
 +.soperson.com = server:system
 +.sophgo.com = server:system
 +.sophiatiles.com = server:system
-+.sopuning.com = server:system
 +.soq.com = server:system
 +.soqicrm.com = server:system
 +.soquair.com = server:system
@@ -48934,7 +48869,6 @@
 +.soupan.info = server:system
 +.soupf.net = server:system
 +.soupingguo.com = server:system
-+.soupis.com = server:system
 +.soupu.com = server:system
 +.soupv.com = server:system
 +.souqian.com = server:system
@@ -50989,7 +50923,6 @@
 +.tenxapp.com = server:system
 +.tenxcloud.com = server:system
 +.tenxcloud.net = server:system
-+.teoripendidikan.com = server:system
 +.teown.com = server:system
 +.tepcb.com = server:system
 +.tepintehui.com = server:system
@@ -52231,7 +52164,6 @@
 +.tssns.net = server:system
 +.tsstorry.com = server:system
 +.tstdtz.com = server:system
-+.tstone.xyz = server:system
 +.tswuby.com = server:system
 +.tsxcx.xyz = server:system
 +.tsybsmz.com = server:system
@@ -52929,7 +52861,6 @@
 +.uchis.com = server:system
 +.uchuanbo.com = server:system
 +.ucicq.com = server:system
-+.ucinsights.com = server:system
 +.ucjoy.com = server:system
 +.ucloudgda.com = server:system
 +.ucloudnaming.info = server:system
@@ -52985,7 +52916,6 @@
 +.uepei.com = server:system
 +.ueren.com = server:system
 +.uestcedu.com = server:system
-+.uestcguoji.com = server:system
 +.ueuz.com = server:system
 +.uewaf.com = server:system
 +.uf-crm.com = server:system
@@ -53329,7 +53259,6 @@
 +.uqualities.com = server:system
 +.uqude.com = server:system
 +.uqulive.com = server:system
-+.uqyqcuq.ml = server:system
 +.urart.cc = server:system
 +.urbanchina.org = server:system
 +.urbanmatters.com = server:system
@@ -54159,7 +54088,6 @@
 +.vspk.com = server:system
 +.vsppt.com = server:system
 +.vsread.com = server:system
-+.vstab.com = server:system
 +.vstart.net = server:system
 +.vstecs.com = server:system
 +.vstmv.com = server:system
@@ -54276,7 +54204,6 @@
 +.w2008.store = server:system
 +.w218.com = server:system
 +.w2bc.com = server:system
-+.w2fzu.com = server:system
 +.w2gou.com = server:system
 +.w2solo.com = server:system
 +.w333.com = server:system
@@ -54709,7 +54636,6 @@
 +.wbdacdn.com = server:system
 +.wbiao.co = server:system
 +.wbiao.com = server:system
-+.wbiao6868.com = server:system
 +.wbini.com = server:system
 +.wbo529.com = server:system
 +.wboll.com = server:system
@@ -55024,7 +54950,6 @@
 +.weimobwmc.com = server:system
 +.weinisongdu.com = server:system
 +.weinm.com = server:system
-+.weinovel.cc = server:system
 +.weio6nkoe.cyou = server:system
 +.weiot.net = server:system
 +.weipaitang.com = server:system
@@ -55334,7 +55259,6 @@
 +.west999.com = server:system
 +.westbund.com = server:system
 +.westcits.com = server:system
-+.westcovinamasters.com = server:system
 +.weste.net = server:system
 +.westengine.com = server:system
 +.westfutu.com = server:system
@@ -55438,7 +55362,6 @@
 +.whalenas.com = server:system
 +.whaleunique.com = server:system
 +.whalipaycs.com = server:system
-+.whart.net = server:system
 +.what21.com = server:system
 +.whatbuytoday.com = server:system
 +.whatsns.com = server:system
@@ -56053,7 +55976,6 @@
 +.wmsjyun.com = server:system
 +.wmsub.com = server:system
 +.wmton.com = server:system
-+.wmtp.net = server:system
 +.wmupd.com = server:system
 +.wmvideo.com = server:system
 +.wmxpro.com = server:system
@@ -56174,7 +56096,6 @@
 +.wolongyoule.com = server:system
 +.wolongzywcdn.com = server:system
 +.wolongzywcdn2.com = server:system
-+.wolongzywcdn3.com = server:system
 +.wolwo.ltd = server:system
 +.wolwobiotech.com = server:system
 +.womai.com = server:system
@@ -56675,7 +56596,6 @@
 +.wuweijob.com = server:system
 +.wuweiyou.com = server:system
 +.wuwenjun.net = server:system
-+.wuwii.com = server:system
 +.wuxi.com = server:system
 +.wuxiairport.com = server:system
 +.wuxiamh.com = server:system
@@ -57070,7 +56990,6 @@
 +.xatao029.com = server:system
 +.xatcrj.com = server:system
 +.xatielu.com = server:system
-+.xatongsheng.net = server:system
 +.xatvs.com = server:system
 +.xatyds.com = server:system
 +.xatzj.com = server:system
@@ -57917,8 +57836,6 @@
 +.xibojiaoyu.com = server:system
 +.xibsteel.com = server:system
 +.xibu168.com = server:system
-+.xibulaobohui.com = server:system
-+.xibutiyu.com = server:system
 +.xicaijing.com = server:system
 +.xicaishe.com = server:system
 +.xichu.net = server:system
@@ -58969,7 +58886,6 @@
 +.xttz.com = server:system
 +.xtu2.com = server:system
 +.xtuan.com = server:system
-+.xtuo.net = server:system
 +.xtuos.com = server:system
 +.xtutoring.com = server:system
 +.xtxcm.com = server:system
@@ -59462,7 +59378,6 @@
 +.xz6.com = server:system
 +.xz6699.com = server:system
 +.xz7.com = server:system
-+.xz93.com = server:system
 +.xzapi56.com = server:system
 +.xzbahd.com = server:system
 +.xzcblog.com = server:system
@@ -61231,7 +61146,6 @@
 +.youtaidoors.com = server:system
 +.youtaidu.com = server:system
 +.youtak.com = server:system
-+.youte.ml = server:system
 +.youthi.com = server:system
 +.youtiandi.com = server:system
 +.youtianli.com = server:system
@@ -61506,7 +61420,6 @@
 +.ysstech.com = server:system
 +.ysszzs.com = server:system
 +.yst100.net = server:system
-+.yst3.com = server:system
 +.ysten.com = server:system
 +.ystinbox.com = server:system
 +.ysug.com = server:system
@@ -62518,7 +62431,6 @@
 +.zatest.com = server:system
 +.zaticdn.com = server:system
 +.zatxt.com = server:system
-+.zavbb.com = server:system
 +.zaxdcredit.com = server:system
 +.zazhiboss.com = server:system
 +.zazhipu.com = server:system
@@ -62755,7 +62667,6 @@
 +.zg3721.com = server:system
 +.zg388.com = server:system
 +.zg3china.com = server:system
-+.zg45.net = server:system
 +.zgaxr.com = server:system
 +.zgbenrun.com = server:system
 +.zgbjyx.com = server:system
@@ -64084,7 +63995,6 @@
 +.zjchina.org = server:system
 +.zjchuguo.com = server:system
 +.zjcic.net = server:system
-+.zjciming.com = server:system
 +.zjcio.org = server:system
 +.zjckw.org = server:system
 +.zjcnbank.com = server:system
