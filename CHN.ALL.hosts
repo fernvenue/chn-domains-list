@@ -15333,7 +15333,6 @@
 +.cn.bing.net = server:system
 +.cn.msi.com = server:system
 +.cn.net = server:system
-+.cn.pandora.net = server:system
 +.cn.vc = server:system
 +.cn.vu = server:system
 +.cn.windowssearch.com = server:system
@@ -17402,6 +17401,7 @@
 +.dangwan.com = server:system
 +.dangzhi.com = server:system
 +.dangzhi.net = server:system
++.dangzhu.net = server:system
 +.danhua.org = server:system
 +.danhuaer.com = server:system
 +.daniao.org = server:system
@@ -23551,7 +23551,6 @@
 +.ghatg.com = server:system
 +.ghboke.com = server:system
 +.ghgy.com = server:system
-+.ghgy.net = server:system
 +.ghibliwiki.org = server:system
 +.ghjie.com = server:system
 +.ghlawyer.net = server:system
@@ -29641,7 +29640,6 @@
 +.imitui.com = server:system
 +.imixpark.com = server:system
 +.imjiayin.com = server:system
-+.imkerwin.com = server:system
 +.imkevinyang.com = server:system
 +.imkira.com = server:system
 +.imlaidian.com = server:system
@@ -30927,7 +30925,6 @@
 +.jdzdeyy.com = server:system
 +.jdzeduyun.com = server:system
 +.jdzj.com = server:system
-+.jdzjdz.com = server:system
 +.jdzmc.com = server:system
 +.jdzol.com = server:system
 +.jdzol.net = server:system
@@ -52031,7 +52028,6 @@
 +.tsyqb.com = server:system
 +.tsyvps.com = server:system
 +.tsyzm.com = server:system
-+.tsz.com = server:system
 +.tszckj.com = server:system
 +.tszhjk.com = server:system
 +.tszyzx.com = server:system
@@ -54093,6 +54089,7 @@
 +.waf.cdnetworks.com = server:system
 +.wafcn.com = server:system
 +.wafunny.com = server:system
++.wafzi.com = server:system
 +.waheaven.com = server:system
 +.wahlap.com = server:system
 +.wahongyu.com = server:system
@@ -54703,7 +54700,6 @@
 +.weicaifu.com = server:system
 +.weicewang.com = server:system
 +.weichaishi.com = server:system
-+.weichen.org = server:system
 +.weicher-sz.com = server:system
 +.weiclicai.com = server:system
 +.weico.cc = server:system
