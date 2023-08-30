@@ -16,7 +16,7 @@ update:
     - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/yaml/"`; done
     - sed -i -e "s/^/  - '+./g" -e "s/$/'/g" -e "1s|^|payload:\n|" *.yaml
     - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/hosts/"`; done
-    - sed -i -e "s/^/+./g" -e "s/$/ = server:system/g" -e "1s|^|[Host]\n|"  *.hosts
+    - sed -i -e "s/^\(.*\)/\1 = server:system\n+.\1 = server:system/" -e "1s|^|[Host]\n|" *.hosts
     - for i in *.txt; do cp $i `echo "$i" | sed "s/txt/agh/"`; done
     - sed -i -e "s/^/[\//g" -e "s/$/\/]114.114.114.114/g" *.agh
     - sed -i "/^$/d" CHN*
