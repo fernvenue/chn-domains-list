@@ -92,6 +92,7 @@
 .mesu-cdn.apple.com.akadns.net
 .mesu-china.apple.com.akadns.net
 .mesu.apple.com
+.ml.cdn-apple.com
 .music.apple.com
 .ocsp-lb.apple.com.akadns.net
 .ocsp.apple.com
@@ -115,8 +116,8 @@
 .store.storeimages.cdn-apple.com
 .support-china.apple-support.akadns.net
 .support.apple.com
-.swallow.apple.com
 .swallow-apple-com.v.aaplimg.com
+.swallow.apple.com
 .swcatalog-cdn.apple.com.akadns.net
 .swcatalog.apple.com
 .swcdn.apple.com
