@@ -377,3 +377,5 @@ uberproxy-with-cn4.l.google.com = server:system
 +.uberproxy-with-cn4.l.google.com = server:system
 uberproxy-with-cn6.l.google.com = server:system
 +.uberproxy-with-cn6.l.google.com = server:system
+qiao-cn.com = server:system
++.qiao-cn.com = server:system
