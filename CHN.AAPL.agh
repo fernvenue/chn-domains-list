@@ -6,6 +6,7 @@
 [/adcdownload.apple.com.akadns.net/]114.114.114.114
 [/adcdownload.apple.com/]114.114.114.114
 [/amp-api.media.apple.com/]114.114.114.114
+[/amp-api-updates.apps.apple.com/]114.114.114.114
 [/api-p-ap-c.smoot.apple.com/]114.114.114.114
 [/api-p-ap-d.smoot.apple.com/]114.114.114.114
 [/api-p-ap-e.smoot.apple.com/]114.114.114.114
@@ -15,6 +16,7 @@
 [/appleid.cdn-apple.com/]114.114.114.114
 [/apps.apple.com/]114.114.114.114
 [/apps.mzstatic.com/]114.114.114.114
+[/bag-cdn.itunes-apple.com.akadns.net/]114.114.114.114
 [/cdn-cn1.apple-mapkit.com/]114.114.114.114
 [/cdn-cn2.apple-mapkit.com/]114.114.114.114
 [/cdn-cn3.apple-mapkit.com/]114.114.114.114
@@ -61,6 +63,7 @@
 [/gsp5-cn.ls.apple.com/]114.114.114.114
 [/gsp85-cn-ssl.ls.apple.com/]114.114.114.114
 [/gspe19-2-cn-ssl.ls.apple.com/]114.114.114.114
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]114.114.114.114
 [/gspe19-cn-ssl.ls.apple.com/]114.114.114.114
 [/gspe19-cn.ls-apple.com.akadns.net/]114.114.114.114
 [/gspe19-cn.ls.apple.com/]114.114.114.114
@@ -99,6 +102,7 @@
 [/is4.mzstatic.com/]114.114.114.114
 [/is5-ssl.mzstatic.com/]114.114.114.114
 [/is5.mzstatic.com/]114.114.114.114
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]114.114.114.114
 [/itunes-apple.com.akadns.net/]114.114.114.114
 [/itunes.apple.com/]114.114.114.114
 [/itunesconnect.apple.com/]114.114.114.114
