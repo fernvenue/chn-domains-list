@@ -4,7 +4,7 @@ stages:
 update:
   stage: update
   script:
-    - git clone https://gitlab.com/$GIT_NAME/chn-domains-list.git && cd chn-domains-list && rm CHN*
+    - git clone https://gitlab.com/$GIT_NAME/chn-domains-list.git --depth 1 && cd chn-domains-list && rm CHN*
     - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.txt
     - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.AAPL.txt
     - curl -s "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf" | grep "^server" | sed "s/[[:space:]]//g" > CHN.GOOG.txt
